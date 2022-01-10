@@ -1,0 +1,75 @@
+{
+    "Name": "alberto antonellini",
+    "Location": "Ravenna, Emilia-Romagna, Italy",
+    "Experiences": [
+        {
+            "position_title": "Tecnico commerciale",
+            "company": "Tecnut Full-time",
+            "duration": "2 yrs 7 mos",
+            "location": "Faenza, Emilia Romagna, Italia",
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Tecnico commerciale",
+            "company": "Tecnut snc",
+            "duration": "2 yrs 6 mos",
+            "location": "Faenza, Emilia-Romagna, Italia",
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Addetto alla produzione e acquisti",
+            "company": "M.E.C. Srl Meccanica Alfonsine",
+            "duration": "1 yr 1 mo",
+            "location": "Alfonsine",
+            "from_date": "2018",
+            "to_date": "2019",
+            "url": null
+        },
+        {
+            "position_title": "Architetto di soluzioni",
+            "company": "Pubbli Graf",
+            "duration": "10 mos",
+            "location": "Faenza, Emilia-Romagna, Italia",
+            "from_date": "2016",
+            "to_date": "2017",
+            "url": null
+        },
+        {
+            "position_title": "Responsabile ufficio tecnico",
+            "company": "Romagna Giochi Group",
+            "duration": "6 yrs 1 mo",
+            "location": "Faenza",
+            "from_date": "2009",
+            "to_date": "2015",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "1991",
+            "to_date": "1997",
+            "university": "Universit\u00e0 degli Studi di Firenze",
+            "degree": [
+                "architettura",
+                "Disegno industriale e del prodotto"
+            ],
+            "url": "https://www.linkedin.com/school/13869/?legacySchoolId=13869"
+        },
+        {
+            "from_date": "1985",
+            "to_date": "1990",
+            "university": "ITIS E.Mattei",
+            "degree": [
+                "Universita' degli Studi di Firenze",
+                "Perito meccanico"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=ITIS%20E.Mattei"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-antonellini-b6b052129?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB-COQMBp9ATtutP1YLzsrszbicBPAGOrUk\n",
+    "Contact_url": []
+}

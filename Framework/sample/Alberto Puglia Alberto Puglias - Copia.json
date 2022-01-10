@@ -1,0 +1,49 @@
+{
+    "Name": "Alberto Puglia",
+    "Location": "Florence, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Geometra Libero Professionista",
+            "company": "Studio Tecnico Puglia",
+            "duration": "8 yrs 7 mos",
+            "location": null,
+            "from_date": "2013",
+            "to_date": "",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2018",
+            "to_date": "",
+            "university": "Universit\u00e0 degli Studi di Firenze",
+            "degree": [
+                "Pianificazione della citt\u00e0, del territorio e del paesaggio"
+            ],
+            "url": "https://www.linkedin.com/school/13869/?legacySchoolId=13869"
+        },
+        {
+            "from_date": "2017",
+            "to_date": "2018",
+            "university": "Universitas Mercatorum",
+            "degree": [
+                "Master Universitario di 1\u00b0Livello",
+                "Real Estate, Propety & Building Management"
+            ],
+            "url": "https://www.linkedin.com/school/187061/?legacySchoolId=187061"
+        },
+        {
+            "from_date": "2010",
+            "to_date": "2012",
+            "university": "Istituto tecnico superiore Geometri \u201cSalvemini \u2013 Duca D\u2019Aosta\u201d",
+            "degree": [
+                "Diploma di Abilitazione all\u2019esercizio della libera professione",
+                "Costruzioni, tecnologia delle costruzioni, estimo, topografia e diritto.",
+                "87/100"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Istituto%20tecnico%20superiore%20Geometri%20%E2%80%9CSalvemini%20%E2%80%93%20Duca%20D%E2%80%99Aosta%E2%80%9D"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-puglia-59685a14a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACQT28IBXrq6wLObefps5AhmDKziWEUVfts\n",
+    "Contact_url": []
+}

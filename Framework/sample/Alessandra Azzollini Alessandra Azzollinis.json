@@ -1,0 +1,38 @@
+{
+    "Name": "Alessandra Azzollini",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Studente laureato",
+            "company": "Universit\u00e0 di Pisa Full-time",
+            "duration": "9 yrs 11 mos",
+            "location": "Pisa, Toscana, Italia",
+            "from_date": "2011",
+            "to_date": "",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2011",
+            "to_date": "2016",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea triennale",
+                "Fisica"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2006",
+            "to_date": "2011",
+            "university": "Liceo Classico Quinto Ennio",
+            "degree": [
+                "Diploma"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Liceo%20Classico%20Quinto%20Ennio"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-azzollini?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADJM3ZIBX3Yy_d8CBe-3coib-hlfR3cwOaM;;;\n",
+    "Contact_url": []
+}

@@ -1,0 +1,25 @@
+Avviare lo script da "AccessPoint.py".
+Per la creazione del Dataframe, indicare il file .csv presistente nella chiamata dell'oggetto "dati".
+
+Ex: dati = Dataframe('prova.csv')
+
+Nel caso non esistesse un file .csv presistente, lo script ne creerà uno a partire dai dati .json presenti nella cartella
+"dati json". Si prega di notare che lo script leggerà solo file .json creati utlizzando lo script Browsing.py. Un sample
+è presente nella cartella "sample". Copiare i dati nella cartella "dati .json" per provare questa funzionalità.
+Nel caso in cui fosse indicato un dataframe presistente e vi fossero dei dati nella caretella "dati json", lo script
+aggiornerà il dataframe. 
+
+Creato il dataframe, si passerà alla fase di data modification. Per iniziare si renderà il codice meno "fuzzy". 
+Relativamente ai nomi delle università, si utilizzera un lista standardizzata "uni" con cui paragonare le varie uscite.
+La lista è aggiornabile e modificabile, ma per mia esperienza personale posso anticiparvi che i risultati migliori si ottengono
+con una lista di media dimensioni che risponda, più o meno, al nostro campo di studi. Una lista con dentro tutte le università
+decisamente NON FUNZIONA. 
+Relativamente ai nomi delle professioni, sono state fatte 4 categorie: 
+- "Internship" raggruppa le esperienze di tirocinio, stage, volontariato.
+- "Prima fascia" raggruppa i titoli "junior", "executive", "consultant" più tutte le professioni prive di "titolo".
+- "Ph.D" raggruppa i pochi casi in cui un dottorato veniva indicato come esperienza lavorativa.
+- "Seconda fascia" raggruppa le professioni con titoli come "senior" "manager" "coordinatore" "responsabile".
+- "Terza fascia" raggruppa "founder" "ceo" "amministratori" "chief" 
+
+
+ATTENZIONE: QUANDO SI CREA UN NUOVO FILE UNI.TXT BISOGNA POI RINOMINARLO CORRETTAMENTE IN UNI.TXT O IL CODICE PRENDERà IL FILE VECCHIO

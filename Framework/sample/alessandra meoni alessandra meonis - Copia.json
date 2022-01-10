@@ -1,0 +1,93 @@
+{
+    "Name": "alessandra meoni",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Docente Esterno",
+            "company": "University of Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "2013",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/university-of-pisa/"
+        },
+        {
+            "position_title": "Lecturer",
+            "company": "University of Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "2013",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/university-of-pisa/"
+        },
+        {
+            "position_title": "The English Salon",
+            "company": "AlessandraM",
+            "duration": null,
+            "location": null,
+            "from_date": "2012",
+            "to_date": "",
+            "url": "https://www.linkedin.com/search/results/all/?keywords=AlessandraM"
+        },
+        {
+            "position_title": "English Tutor",
+            "company": "AlessandraM",
+            "duration": null,
+            "location": null,
+            "from_date": "2011",
+            "to_date": "",
+            "url": "https://www.linkedin.com/search/results/all/?keywords=AlessandraM"
+        },
+        {
+            "position_title": "English Teacher",
+            "company": "Mary Poppins sas di Alice Giuntoli e Luna Canolla",
+            "duration": "6 yrs 11 mos",
+            "location": "Pisa Area, Italy",
+            "from_date": "2014",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "English Language Consultant",
+            "company": "Department of Mathematics, University of Pisa",
+            "duration": "6 yrs 11 mos",
+            "location": "Pisa Area, Italy",
+            "from_date": "2014",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "English Language Consultant; Lecturer in scientific English for University and PhD students",
+            "company": "University of Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": null,
+            "to_date": null,
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2004",
+            "to_date": "2008",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "PhD",
+                "English contemporary Lit"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "1998",
+            "to_date": "2003",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea",
+                "English Literature"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-meoni-4890888?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAFvQKkBrXyUEmz49NoWSLCuT2sT1ApYe9w;;;\n",
+    "Contact_url": []
+}

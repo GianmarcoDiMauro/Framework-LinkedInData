@@ -1,0 +1,47 @@
+{
+    "Name": "Alejandro Mayoral",
+    "Location": "Guadalajara, Jalisco, Mexico",
+    "Experiences": [
+        {
+            "position_title": "Recursos humanos",
+            "company": "Poliflex S.A de C.V",
+            "duration": "5 yrs 11 mos",
+            "location": "Guadalajara y alrededores, M\u00e9xico",
+            "from_date": "2015",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Auxiliar de maquinas automatizadas",
+            "company": "Laboratorios PISA",
+            "duration": "8 yrs 4 mos",
+            "location": "Guadalajara y alrededores, M\u00e9xico",
+            "from_date": "2006",
+            "to_date": "2014",
+            "url": null
+        },
+        {
+            "position_title": "Encargado",
+            "company": "Roxxy Milk",
+            "duration": "1 yr 6 mos",
+            "location": "Guadalajara y alrededores, M\u00e9xico",
+            "from_date": "2003",
+            "to_date": "2005",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2014",
+            "to_date": "2017",
+            "university": "Centro universitario UTEG",
+            "degree": [
+                "LIicenciatura",
+                "Administraci\u00f3n y gesti\u00f3n de empresas, general"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Centro%20universitario%20UTEG"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alejandro-mayoral-66b374104?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABpk-bMBIDf-aowphsdaboB7hr1iTqWsKwg\n",
+    "Contact_url": []
+}

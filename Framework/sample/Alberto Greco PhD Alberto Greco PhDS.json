@@ -1,0 +1,86 @@
+{
+    "Name": "Alberto Greco, PhD",
+    "Location": "Lucca, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Postdoctoral Researcher",
+            "company": "University of Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "2015",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/university-of-pisa/"
+        },
+        {
+            "position_title": "PHD Student",
+            "company": "University of Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "2012",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/university-of-pisa/"
+        },
+        {
+            "position_title": "Assistant professor of Bioengineering",
+            "company": "Dipartimento di Ingegneria dell'Informazione - Universit\u00e0 di Pisa",
+            "duration": "2 yrs 7 mos",
+            "location": "Pisa, Italia",
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Amministratore delegato",
+            "company": "FEEL-ING srl",
+            "duration": "3 yrs 7 mos",
+            "location": "Pisa, Italia",
+            "from_date": "2018",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Visiting fellow",
+            "company": "University of Essex",
+            "duration": "9 mos",
+            "location": null,
+            "from_date": "2014",
+            "to_date": "2014",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2012",
+            "to_date": "2015",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Doctor of Philosophy (PhD)",
+                "Bioingegneria e ingegneria biomedica"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2007",
+            "to_date": "2010",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "ingegneria biomedica",
+                "110 e Lode"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2007",
+            "to_date": "2010",
+            "university": "Universit\u00e0 di Pisa / University of Pisa",
+            "degree": [
+                "Master's degree",
+                "Biomedical Engineering",
+                "110/110 with honor"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-greco-phd-13a67a30?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAaBgz4BRnbz4YjCTfTA8O8rOlAW_ttSGL8;;;\n",
+    "Contact_url": []
+}

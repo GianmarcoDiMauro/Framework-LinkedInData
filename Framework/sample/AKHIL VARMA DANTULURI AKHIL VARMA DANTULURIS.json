@@ -1,0 +1,85 @@
+{
+    "Name": "AKHIL VARMA DANTULURI",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Graduate",
+            "company": "Master Auditing e Risk Management - Banche - Universit\u00e0 di Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "2017",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/master-auditing-e-risk-management---banche/"
+        },
+        {
+            "position_title": "Graduate Student",
+            "company": "Master Auditing e Risk Management - Banche - Universit\u00e0 di Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "2018",
+            "to_date": "2020",
+            "url": "https://www.linkedin.com/company/master-auditing-e-risk-management---banche/"
+        },
+        {
+            "position_title": "Co-Founder",
+            "company": "truedezier.com Self-employed",
+            "duration": "8 mos",
+            "location": "Pisa, Tuscany, Italy",
+            "from_date": "2020",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Masters Student",
+            "company": "Universit\u00e0 di Pisa",
+            "duration": "1 yr 11 mos",
+            "location": "Pisa, Tuscany, Italy",
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Masters Student",
+            "company": "student",
+            "duration": "1 yr",
+            "location": "Pisa, Tuscany, Italy",
+            "from_date": "2017",
+            "to_date": "2018",
+            "url": null
+        },
+        {
+            "position_title": "Junior Accountant",
+            "company": "VEERENDRA PATIL&CO.CHARTERED ACCOUNTANTS",
+            "duration": "2 yrs 2 mos",
+            "location": "Ballari Area, India",
+            "from_date": "2015",
+            "to_date": "2017",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2019",
+            "to_date": "2021",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Second cycle Masters degree",
+                "Data Science and Business Informatics",
+                "Python and computer science society\u2019s"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2017",
+            "to_date": "2018",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Master's degree",
+                "Risk Management"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/akhil-varma-dantuluri-670618160?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACaI0rQBo-1cVdKU84Yckk3eBy0AY1fcYsM;;;\n",
+    "Contact_url": []
+}

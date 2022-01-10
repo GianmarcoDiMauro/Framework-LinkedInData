@@ -1,0 +1,69 @@
+{
+    "Name": "Alberto Ciatti",
+    "Location": "Varese, Lombardy, Italy",
+    "Experiences": [
+        {
+            "position_title": "Dentista Specialista in Chirurgia ed Implantologia",
+            "company": "Ciatti Studio Dentistico",
+            "duration": null,
+            "location": null,
+            "from_date": "2011",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/ciatti-studio-dentistico/"
+        },
+        {
+            "position_title": "Dentista, Specialista in Chirurgia Orale ed Implantologia",
+            "company": "Ciatti Studio Dentistico",
+            "duration": null,
+            "location": null,
+            "from_date": "2007",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/ciatti-studio-dentistico/"
+        },
+        {
+            "position_title": "Doctor",
+            "company": "IRCCS Istituto Ortopedico Galeazzi, Servizio di Odontoiatria",
+            "duration": "5 yrs",
+            "location": "Milan Area, Italy",
+            "from_date": "2008",
+            "to_date": "2013",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2019",
+            "to_date": "2020",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Master di Secondo livello in Implantologia Zigomatica",
+                "Dipartimento di Odontostomatologia e Chilurgia del cavo orale",
+                "Master di secondo livello in Implantologia Zigomatica"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2008",
+            "to_date": "2011",
+            "university": "Universit\u00e0 degli Studi di Milano",
+            "degree": [
+                "Post Graduate",
+                "Oral Surgery"
+            ],
+            "url": "https://www.linkedin.com/school/13875/?legacySchoolId=13875"
+        },
+        {
+            "from_date": "2002",
+            "to_date": "2007",
+            "university": "Universit\u00e0 degli Studi dell'Insubria",
+            "degree": [
+                "Dentistry",
+                "Dentistry",
+                "AISO (Associazione Italiana Studenti Odontoiatria)"
+            ],
+            "url": "https://www.linkedin.com/school/13859/?legacySchoolId=13859"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-ciatti?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAMLjNgBXFs5MAtMp25kguBwzc2LHUMHwo4;;;\n",
+    "Contact_url": []
+}

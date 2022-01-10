@@ -1,0 +1,62 @@
+{
+    "Name": "Alberto Mancin",
+    "Location": "Italy",
+    "Experiences": [
+        {
+            "position_title": "Product Development Senior Specialist",
+            "company": "Kedrion S.p.A.",
+            "duration": null,
+            "location": null,
+            "from_date": "2012",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/kedrion-biopharma/"
+        },
+        {
+            "position_title": "Marketing Manager Corporate & Products",
+            "company": "Kedrion S.p.A.",
+            "duration": null,
+            "location": null,
+            "from_date": "2008",
+            "to_date": "2012",
+            "url": "https://www.linkedin.com/company/kedrion-biopharma/"
+        },
+        {
+            "position_title": "General Manager Italy",
+            "company": "Octapharma Italy S.p.A.",
+            "duration": "2 yrs 7 mos",
+            "location": "Pisa",
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Medical Affairs Manager",
+            "company": "Octapharma Italy",
+            "duration": "4 yrs 1 mo",
+            "location": null,
+            "from_date": "2017",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Medical Affairs Manager",
+            "company": "Kedrion",
+            "duration": "7 yrs 8 mos",
+            "location": "Castelvecchio P. (LU)",
+            "from_date": "2013",
+            "to_date": "",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "1978",
+            "to_date": "1984",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-mancin-70a2123?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAACQqnoBfj8zmC63pzXnKzRUolLgPY-4NEA;;;\n",
+    "Contact_url": []
+}

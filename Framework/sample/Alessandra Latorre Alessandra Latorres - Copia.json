@@ -1,0 +1,37 @@
+{
+    "Name": "Alessandra Latorre",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [],
+    "Education": [
+        {
+            "from_date": "2020",
+            "to_date": "2021",
+            "university": "Centro Studi Comunicare l'Impresa",
+            "degree": [
+                "Master in Global Marketing, Comunicazione & Made in Italy"
+            ],
+            "url": "https://www.linkedin.com/school/3319167/?legacySchoolId=3319167"
+        },
+        {
+            "from_date": "2019",
+            "to_date": "2021",
+            "university": "Universit\u00e0 degli Studi di Milano",
+            "degree": [
+                "Laurea specialistica in lingue per la comunicazione e la cooperazione internazionale",
+                "Integrazione e comunicazione interculturale per istituzioni ed imprese"
+            ],
+            "url": "https://www.linkedin.com/school/13875/?legacySchoolId=13875"
+        },
+        {
+            "from_date": "2015",
+            "to_date": "2018",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea triennale in Lingue e letterature straniere"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-latorre-979a7312a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB_WaK0Bcd3u67qDztZy10YRrUwzGWhPaK8;;;\n",
+    "Contact_url": []
+}

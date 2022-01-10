@@ -1,0 +1,59 @@
+{
+    "Name": "Alessandra Galli",
+    "Location": "Pescia, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Product Designer",
+            "company": "Laboratorio di Sostenibilit\u00e0 - Design Campus Internship",
+            "duration": "5 mos",
+            "location": "Firenze",
+            "from_date": "2020",
+            "to_date": "2020",
+            "url": null
+        },
+        {
+            "position_title": "Product Designer",
+            "company": "Progetto Laurus - Confartigianato Pistoia & Universit\u00e0 degli studi di Firenze Contract",
+            "duration": "1 yr",
+            "location": "Firenze",
+            "from_date": "2018",
+            "to_date": "2019",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2018",
+            "to_date": "2021",
+            "university": "Universit\u00e0 degli Studi di Firenze",
+            "degree": [
+                "Magistrale di Design",
+                "Design",
+                "110 su 110 e Lode"
+            ],
+            "url": "https://www.linkedin.com/school/13869/?legacySchoolId=13869"
+        },
+        {
+            "from_date": "2018",
+            "to_date": "2019",
+            "university": "Universit\u00e0 degli Studi di Firenze",
+            "degree": [
+                "Corso di perfezionamento di 2\u00b0 livello - Design Driven Strategies OD&M",
+                "Design strategico per la manifattura 4.0 e l'innovazione sociale"
+            ],
+            "url": "https://www.linkedin.com/school/13869/?legacySchoolId=13869"
+        },
+        {
+            "from_date": "2013",
+            "to_date": "2018",
+            "university": "Universit\u00e0 degli Studi di Firenze",
+            "degree": [
+                "Laurea Triennale in Industrial Design",
+                "110/110L"
+            ],
+            "url": "https://www.linkedin.com/school/13869/?legacySchoolId=13869"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-galli-2703b41b2?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADGJW3QBmqHI4BWtvgtg35BNWvLzaj1leJ4\n",
+    "Contact_url": []
+}

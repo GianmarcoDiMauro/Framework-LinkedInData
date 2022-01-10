@@ -1,0 +1,84 @@
+{
+    "Name": "Alessandra Faraci",
+    "Location": "Italy",
+    "Experiences": [
+        {
+            "position_title": "Risorse umane",
+            "company": "Be Power Energia",
+            "duration": "3 yrs",
+            "location": "Gela, Italia",
+            "from_date": "2018",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Front Desk Representative",
+            "company": "Marinapalacehotel Full-time",
+            "duration": "less than a year",
+            "location": "Catania, Sicilia, Italia",
+            "from_date": "2015",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Front office",
+            "company": "Empire Palace Hotel Full-time",
+            "duration": "1 yr",
+            "location": "Roma",
+            "from_date": "2014",
+            "to_date": "2015",
+            "url": null
+        },
+        {
+            "position_title": "Impiegato del back office",
+            "company": "Hotel Eden Internship",
+            "duration": "1 yr",
+            "location": "Roma",
+            "from_date": "2012",
+            "to_date": "2013",
+            "url": null
+        },
+        {
+            "position_title": "Assistente congressuale",
+            "company": "bagni di pisa natural spa resort ***** Full-time",
+            "duration": "1 yr",
+            "location": "Pisa, Toscana, Italia",
+            "from_date": "2010",
+            "to_date": "2011",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2011",
+            "to_date": "2012",
+            "university": "EF Executive Language Institute",
+            "degree": [
+                "b2"
+            ],
+            "url": "https://www.linkedin.com/school/162140/?legacySchoolId=162140"
+        },
+        {
+            "from_date": "2010",
+            "to_date": "2012",
+            "university": "UNINFORM GROUP",
+            "degree": [
+                "Master",
+                "Tourism Quality Management"
+            ],
+            "url": "https://www.linkedin.com/school/475007/?legacySchoolId=475007"
+        },
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Universit\u00e0 Telematica Pegaso",
+            "degree": [
+                "1\u00b0 livello - Laurea L",
+                "Economia e gestione delle imprese turistiche"
+            ],
+            "url": "https://www.linkedin.com/school/162176/?legacySchoolId=162176"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-faraci-6a398b110?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABvowhsBVAw2Ezr3faqmcsRMkbxDP8W3lnk;;;\n",
+    "Contact_url": []
+}

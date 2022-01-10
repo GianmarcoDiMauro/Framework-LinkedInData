@@ -1,0 +1,55 @@
+{
+    "Name": "Alessandra M.",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Traduttore freelance",
+            "company": "Freelance",
+            "duration": "10 mos",
+            "location": "Pisa, Toscana, Italia",
+            "from_date": "2020",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Insegnamento",
+            "company": "privati Part-time",
+            "duration": "1 yr 6 mos",
+            "location": "Pisa, Toscana, Italia",
+            "from_date": "2018",
+            "to_date": "2019",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2017",
+            "to_date": "2020",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea Magistrale LM",
+                "linguistica e traduzione"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2012",
+            "to_date": "2016",
+            "university": "Universit\u00e0 degli studi Roma TRE",
+            "degree": [
+                "laurea triennale",
+                "Lingue e letterature straniere, generale"
+            ],
+            "url": "https://www.linkedin.com/school/13887/?legacySchoolId=13887"
+        },
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Universidad de Alcal\u00e1",
+            "degree": [],
+            "url": "https://www.linkedin.com/school/12204/?legacySchoolId=12204"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandramassimi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABJLR5QBeVXu-wvvUPEWmh_wvSiBm_bQElU;;;\n",
+    "Contact_url": []
+}

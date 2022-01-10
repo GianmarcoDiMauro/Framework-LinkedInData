@@ -1,0 +1,85 @@
+{
+    "Name": "Alessandra Catania",
+    "Location": "Predappio, Emilia-Romagna, Italy",
+    "Experiences": [
+        {
+            "position_title": "Professional Copywriter and Senior Editor",
+            "company": "Alessandra Catania Freelance",
+            "duration": "20 yrs 7 mos",
+            "location": "Predappio",
+            "from_date": "2001",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Cna Digitale Reggio Emilia associate",
+            "company": "Cna Digitale Reggio Emilia Freelance",
+            "duration": "4 yrs 8 mos",
+            "location": "Reggio Emilia, Emilia-Romagna, Italy",
+            "from_date": "2016",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Coach and Trainer on copywriting and Social Media",
+            "company": "Assoform Emilia Romagna Freelance",
+            "duration": "1 yr 7 mos",
+            "location": null,
+            "from_date": "2020",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Copywriter and Social Media Manager",
+            "company": "Federica Parmeggiano Medico Estetico Freelance",
+            "duration": "2 yrs 1 mo",
+            "location": null,
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Social Media, Copywriter, Press Office and Pr",
+            "company": "Studio Enreal Freelance",
+            "duration": "3 yrs 8 mos",
+            "location": "Italy",
+            "from_date": "2017",
+            "to_date": "2020",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2001",
+            "to_date": "2002",
+            "university": "Universit\u00e0 di Bologna",
+            "degree": [
+                "Almaweb Graduate School Master in Communication and Information Technology",
+                "Communication and Media Studies"
+            ],
+            "url": "https://www.linkedin.com/school/13901/?legacySchoolId=13901"
+        },
+        {
+            "from_date": "1996",
+            "to_date": "1997",
+            "university": "Universit\u00e0 degli Studi di Firenze",
+            "degree": [
+                "Bachelor",
+                "Political Sciences and International Relations"
+            ],
+            "url": "https://www.linkedin.com/school/13869/?legacySchoolId=13869"
+        },
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Squola Di Blog",
+            "degree": [
+                "Social Media Learner",
+                "Social Media"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Squola%20Di%20Blog"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/cataniaalessandra?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAJ3R4BX6z5wi1FVEgNnCmJdfmRew_HQc0\n",
+    "Contact_url": []
+}

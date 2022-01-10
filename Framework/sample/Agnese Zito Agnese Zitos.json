@@ -1,0 +1,49 @@
+{
+    "Name": "Agnese Zito",
+    "Location": "Pescara, Abruzzi, Italy",
+    "Experiences": [
+        {
+            "position_title": "Studente tirocinante",
+            "company": "Azienda di soggiorno, cura e turismo di Napoli",
+            "duration": "3 mos",
+            "location": "Napoli, Italia",
+            "from_date": "2018",
+            "to_date": "2018",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2015",
+            "to_date": "2019",
+            "university": "Universita degli Studi di Napoli \"L'Orientale\"",
+            "degree": [
+                "1\u00b0 livello - Laurea L",
+                "Lingue e Culture Comparate"
+            ],
+            "url": "https://www.linkedin.com/school/13879/?legacySchoolId=13879"
+        },
+        {
+            "from_date": "2019",
+            "to_date": "2019",
+            "university": "Scuola Superiore per Mediatori Linguistici di Pisa",
+            "degree": [
+                "Master",
+                "Marketing and Management in Chinese"
+            ],
+            "url": "https://www.linkedin.com/school/163007/?legacySchoolId=163007"
+        },
+        {
+            "from_date": "2019",
+            "to_date": "",
+            "university": "Universit\u00e0 degli Studi 'Gabriele d'Annunzio' di Chieti",
+            "degree": [
+                "Laurea Magistrale LM",
+                "Lingue Straniere per l\u2019Impresa e la Cooperazione Internazionale"
+            ],
+            "url": "https://www.linkedin.com/school/13898/?legacySchoolId=13898"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/agnese-zito-341025178?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACoBhaEB_MRqNjrNeNRk-3QyfZJ6uiW-Pus;;;\n",
+    "Contact_url": []
+}

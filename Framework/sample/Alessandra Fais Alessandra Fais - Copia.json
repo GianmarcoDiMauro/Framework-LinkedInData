@@ -1,0 +1,77 @@
+{
+    "Name": "Alessandra Fais",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Researcher PhD Student",
+            "company": "Universit\u00e0 di Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "2019",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/university-of-pisa/"
+        },
+        {
+            "position_title": "Teaching Support",
+            "company": "Universit\u00e0 di Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "2021",
+            "to_date": "2021",
+            "url": "https://www.linkedin.com/company/university-of-pisa/"
+        },
+        {
+            "position_title": "Attendee Summer School \"5G: Enabling Technologies, Opportunities and Research Challenges Ahead\"",
+            "company": "Dipartimento di Ingegneria dell'Informazione - Universit\u00e0 di Pisa",
+            "duration": "1 mo",
+            "location": "Pisa, Tuscany, Italy",
+            "from_date": "2021",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Teacher",
+            "company": "Istituto Modartech",
+            "duration": "2 mos",
+            "location": "Pontedera, Tuscany, Italy",
+            "from_date": "2021",
+            "to_date": "",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2019",
+            "to_date": "2022",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Doctor of Philosophy - PhD",
+                "Computer Systems Networking and Telecommunications"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2016",
+            "to_date": "2019",
+            "university": "Scuola Superiore Sant'Anna",
+            "degree": [
+                "Master's degree",
+                "Computer Science and Networking",
+                "110/110 cum laude"
+            ],
+            "url": "https://www.linkedin.com/school/42262/?legacySchoolId=42262"
+        },
+        {
+            "from_date": "2011",
+            "to_date": "2016",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Bachelor's degree",
+                "Computer Science"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-fais?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB0h6-YBPFxAG8cBDDsai5W7ecW3mIin1ps;;;\n",
+    "Contact_url": []
+}

@@ -1,0 +1,74 @@
+{
+    "Name": "Alessandra Anedda",
+    "Location": "Rosignano Marittimo, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Commessa",
+            "company": "Valerio D'orio Calzature Part-time",
+            "duration": "1 yr 3 mos",
+            "location": "Rosignano Marittimo, Toscana, Italia",
+            "from_date": "2020",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Hostess congressuale",
+            "company": "Agenzie",
+            "duration": "14 yrs 1 mo",
+            "location": "Toscana, Italia",
+            "from_date": "2006",
+            "to_date": "2020",
+            "url": null
+        },
+        {
+            "position_title": "Commessa",
+            "company": "Valerio D'Orio Calzature",
+            "duration": "4 mos",
+            "location": "Rosignano Marittimo",
+            "from_date": "2019",
+            "to_date": "2019",
+            "url": null
+        },
+        {
+            "position_title": "Impiegata Amministrativa",
+            "company": "Re Energy Srl",
+            "duration": "less than a year",
+            "location": "Rosignano Marittimo (LI)",
+            "from_date": "2011",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Segretaria",
+            "company": "Gani Tende di Gani Viviana",
+            "duration": "less than a year",
+            "location": "S. Pietro in Palazzi - Cecina (LI)",
+            "from_date": "2010",
+            "to_date": "",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Liceo Ginnasio G. D'Annunzio - Cecina (LI)",
+            "degree": [
+                "Diploma di maturit\u00e0 Classica"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Liceo%20Ginnasio%20G.%20D%27Annunzio%20-%20Cecina%20(LI)"
+        },
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Universit\u00e0 degli Studi di Pisa",
+            "degree": [
+                "Diploma di laurea in Giurisprudenza (DL)",
+                "Laurea magistrale vecchio ordinamento."
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Universit%C3%A0%20degli%20Studi%20di%20Pisa"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-anedda-42a39483?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABGtCmIBIl4yHshj-J4zpuSlK_hcwgYWWPo;;;\n",
+    "Contact_url": []
+}

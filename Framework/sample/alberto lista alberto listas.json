@@ -1,0 +1,18 @@
+{
+    "Name": "alberto lista",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [],
+    "Education": [
+        {
+            "from_date": "2016",
+            "to_date": "2021",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Ingegneria aerospaziale"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-lista-7465271ab?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADEFgWYBfJu0_7oVYd1oQl8smwtJTBGNcm8;;;\n",
+    "Contact_url": []
+}

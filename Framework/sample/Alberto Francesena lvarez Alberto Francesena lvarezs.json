@@ -1,0 +1,83 @@
+{
+    "Name": "Alberto Francesena \u00c1lvarez",
+    "Location": "Greater Valencia Metropolitan Area",
+    "Experiences": [
+        {
+            "position_title": "Global Sales and Marketing Manager - Special Additives Business Unit",
+            "company": "TOLSA",
+            "duration": "2 yrs 10 mos",
+            "location": "Madrid",
+            "from_date": "2018",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Sales Manager Iberia construction division",
+            "company": "Lamberti S.p.A.",
+            "duration": "2 yrs",
+            "location": "Castell\u00f3n, Espa\u00f1a",
+            "from_date": "2016",
+            "to_date": "2018",
+            "url": null
+        },
+        {
+            "position_title": "Account Manager Coatings & Construction",
+            "company": "Brenntag Group",
+            "duration": "2 yrs 10 mos",
+            "location": "Valencia",
+            "from_date": "2014",
+            "to_date": "2016",
+            "url": null
+        },
+        {
+            "position_title": "Trade Manager Internacional",
+            "company": "MADIN",
+            "duration": "8 mos",
+            "location": "Shenzhen City, China",
+            "from_date": "2013",
+            "to_date": "2014",
+            "url": null
+        },
+        {
+            "position_title": "General Director",
+            "company": "iBERCANARIAS",
+            "duration": "2 yrs 8 mos",
+            "location": "Las Palmas de Gran Canaria y alrededores, Espa\u00f1a",
+            "from_date": "2011",
+            "to_date": "2013",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "1994",
+            "to_date": "2000",
+            "university": "Universidad de Oviedo",
+            "degree": [
+                "Licenciado quimico",
+                "ORGANICA",
+                "Colegio de Quimicos"
+            ],
+            "url": "https://www.linkedin.com/school/12224/?legacySchoolId=12224"
+        },
+        {
+            "from_date": "2018",
+            "to_date": "2018",
+            "university": "The London School of Economics and Political Science (LSE)",
+            "degree": [
+                "LSE Managerial Finance certificate course",
+                "Finance"
+            ],
+            "url": "https://www.linkedin.com/school/19926/?legacySchoolId=19926"
+        },
+        {
+            "from_date": "2014",
+            "to_date": "2014",
+            "university": "DOW CHEMICAL",
+            "degree": [],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=DOW%20CHEMICAL"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/francesena?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAT30nwBjNNKLiKOjoxpzDN-Is4eFf90dAQ\n",
+    "Contact_url": []
+}

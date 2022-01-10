@@ -1,0 +1,94 @@
+{
+    "Name": "Alberto Micoli",
+    "Location": "Udine, Friuli-Venezia Giulia, Italy",
+    "Experiences": [
+        {
+            "position_title": "Human Resources Coordinator",
+            "company": "Gruppo de Eccher",
+            "duration": null,
+            "location": null,
+            "from_date": "2020",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/gruppo-de-eccher/"
+        },
+        {
+            "position_title": "Human Resources Officer",
+            "company": "Gruppo de Eccher",
+            "duration": null,
+            "location": null,
+            "from_date": "2015",
+            "to_date": "2020",
+            "url": "https://www.linkedin.com/company/gruppo-de-eccher/"
+        },
+        {
+            "position_title": "HR Officer",
+            "company": "Rizzani de Eccher",
+            "duration": "3 mos",
+            "location": "Dubai, United Arab Emirates",
+            "from_date": "2017",
+            "to_date": "2017",
+            "url": null
+        },
+        {
+            "position_title": "HR Intern",
+            "company": "SMS group GmbH",
+            "duration": "6 mos",
+            "location": "Tarcento, Friuli-Venezia Giulia, Italy",
+            "from_date": "2015",
+            "to_date": "2015",
+            "url": null
+        },
+        {
+            "position_title": "Assistant Recruiter",
+            "company": "Archimede - Job Agency",
+            "duration": "6 mos",
+            "location": "Codroipo",
+            "from_date": "2014",
+            "to_date": "2015",
+            "url": null
+        },
+        {
+            "position_title": "Assistant Director",
+            "company": "Italian Cultural Institute of Copenhagen",
+            "duration": "4 mos",
+            "location": "Copenhagen, Danimarca",
+            "from_date": "2013",
+            "to_date": "2013",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2011",
+            "to_date": "2014",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Master's degree",
+                "Enterprise Communication & Human Resources",
+                "107/110"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2013",
+            "to_date": "2013",
+            "university": "Instituto Superior de Ci\u00eancias do Trabalho e da Empresa",
+            "degree": [
+                "Erasmus Programme"
+            ],
+            "url": "https://www.linkedin.com/school/16077/?legacySchoolId=16077"
+        },
+        {
+            "from_date": "2007",
+            "to_date": "2010",
+            "university": "Universit\u00e0 degli Studi di Udine",
+            "degree": [
+                "Bachelor's degree",
+                "Multimedia technologies"
+            ],
+            "url": "https://www.linkedin.com/school/13895/?legacySchoolId=13895"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/albertomicoli?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHnncUB1uLNZO1x90OEhSiIwSHABZeuUhg;;;\n",
+    "Contact_url": []
+}

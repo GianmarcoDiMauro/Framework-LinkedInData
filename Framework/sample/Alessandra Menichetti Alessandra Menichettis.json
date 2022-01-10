@@ -1,0 +1,47 @@
+{
+    "Name": "Alessandra Menichetti",
+    "Location": "Florence, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Industrial HR Director",
+            "company": "Christian Dior Couture",
+            "duration": "10 yrs 1 mo",
+            "location": null,
+            "from_date": "2011",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "HR Manager",
+            "company": "LVMH Fashion Division - Emilio Pucci Srl",
+            "duration": "3 yrs",
+            "location": "Firenze, Italia",
+            "from_date": "2008",
+            "to_date": "2011",
+            "url": null
+        },
+        {
+            "position_title": "HR Manager",
+            "company": "Salvatore Ferragamo",
+            "duration": "12 yrs 2 mos",
+            "location": null,
+            "from_date": "1996",
+            "to_date": "2008",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "1985",
+            "to_date": "1991",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea in Economia e Commercio",
+                "Leadership delle organizzazioni"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-menichetti-8b309241?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAi7e4cBRSWzGdeXPjBCErfjMzqoCR8FODM;;;\n",
+    "Contact_url": []
+}

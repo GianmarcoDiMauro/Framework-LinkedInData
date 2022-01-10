@@ -1,0 +1,86 @@
+{
+    "Name": "Alessandra Misuraca",
+    "Location": "Catania, Sicily, Italy",
+    "Experiences": [
+        {
+            "position_title": "Reporting & Controllo di gestione",
+            "company": "Ontario Srl",
+            "duration": "3 yrs",
+            "location": "Catania, Italia",
+            "from_date": "2018",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Studente",
+            "company": "Universit\u00e0 di Pisa",
+            "duration": "1 yr",
+            "location": "Pisa, Italia",
+            "from_date": "2017",
+            "to_date": "2018",
+            "url": null
+        },
+        {
+            "position_title": "Revisore contabile",
+            "company": "KRESTON GV Italy",
+            "duration": "1 yr",
+            "location": "Milano, Italia",
+            "from_date": "2017",
+            "to_date": "2018",
+            "url": null
+        },
+        {
+            "position_title": "Tutor progetto alternanza scuola-lavoro",
+            "company": "Liceo Scientifico Statale Archimede",
+            "duration": "1 yr 7 mos",
+            "location": "Acireale",
+            "from_date": "2016",
+            "to_date": "2017",
+            "url": null
+        },
+        {
+            "position_title": "Studentessa",
+            "company": "Universit\u00e0 di Catania",
+            "duration": "4 yrs",
+            "location": null,
+            "from_date": "2013",
+            "to_date": "2017",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2017",
+            "to_date": "2018",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Master universitario",
+                "Auditing & Consulting"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2013",
+            "to_date": "2017",
+            "university": "Universit\u00e0 di Catania",
+            "degree": [
+                "1\u00b0 ciclo - Laurea L",
+                "Economia aziendale/manageriale",
+                "110 e lode"
+            ],
+            "url": "https://www.linkedin.com/school/13903/?legacySchoolId=13903"
+        },
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "YESCHOOL FORMAZIONE LINGUISTICA",
+            "degree": [
+                "Attestato di partecipazione",
+                "Corso di inglese"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=YESCHOOL%20FORMAZIONE%20LINGUISTICA"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-misuraca-970286b2?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABfjreQBUOfTkTRWM_i5ZxzORsuhoX6cveo;;;\n",
+    "Contact_url": []
+}

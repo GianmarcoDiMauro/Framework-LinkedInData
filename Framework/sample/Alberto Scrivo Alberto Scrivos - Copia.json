@@ -1,0 +1,38 @@
+{
+    "Name": "Alberto Scrivo",
+    "Location": "Italy",
+    "Experiences": [
+        {
+            "position_title": "Area Credito",
+            "company": "Ente Nazionale per il Microcredito Internship",
+            "duration": "6 mos",
+            "location": "Roma, Lazio, Italia",
+            "from_date": "2020",
+            "to_date": "2021",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2018",
+            "to_date": "2021",
+            "university": "Sapienza Universit\u00e0 di Roma",
+            "degree": [
+                "Laurea Magistrale LM",
+                "Intermediari, Finanza Internazionale e Risk Management"
+            ],
+            "url": "https://www.linkedin.com/school/3155428/?legacySchoolId=3155428"
+        },
+        {
+            "from_date": "2017",
+            "to_date": "",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea breve in Scienze dell'Economia e della Gestione Aziendale"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-scrivo-96aba4169?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACg4nmIBzKjdUnJ8So38E32AqTB-_6Li6aQ;;;\n",
+    "Contact_url": []
+}

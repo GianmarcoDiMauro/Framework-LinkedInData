@@ -1,0 +1,78 @@
+{
+    "Name": "Alessandra Gallo",
+    "Location": "Florence, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "PR, eventi, ghostwriting, web content",
+            "company": "Confindustria Toscana",
+            "duration": "16 yrs 2 mos",
+            "location": "Firenze, Italia",
+            "from_date": "2005",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Junior Account",
+            "company": "SEC Relazioni Pubbliche e Istituzionali",
+            "duration": "1 yr",
+            "location": "MIlano",
+            "from_date": "2004",
+            "to_date": "2005",
+            "url": null
+        },
+        {
+            "position_title": "Junior Comunicazione",
+            "company": "ANCI IDEALI",
+            "duration": "4 mos",
+            "location": "Brussels Area, Belgio",
+            "from_date": "2004",
+            "to_date": "2004",
+            "url": null
+        },
+        {
+            "position_title": "stagista ufficio stampa",
+            "company": "Rappresentanza permanente d\u2019Italia presso l\u2019Unione Europea",
+            "duration": "4 mos",
+            "location": "Brussels Area, Belgio",
+            "from_date": "2003",
+            "to_date": "2003",
+            "url": null
+        },
+        {
+            "position_title": "conduttrice informazione regionale",
+            "company": "Telecentro 2 - emittente televisiva",
+            "duration": "7 mos",
+            "location": "Livorno",
+            "from_date": "2001",
+            "to_date": "2002",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2016",
+            "to_date": "",
+            "university": "Libera Universit\u00e0 di Lingue e Comunicazione IULM",
+            "degree": [],
+            "url": "https://www.linkedin.com/school/13836/?legacySchoolId=13836"
+        },
+        {
+            "from_date": "2009",
+            "to_date": "2009",
+            "university": "short master Credit Management",
+            "degree": [
+                "Istituto di Studi Bancari Lucca"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=short%20master%20Credit%20Management"
+        },
+        {
+            "from_date": "2005",
+            "to_date": "2005",
+            "university": "Eunomiamaster",
+            "degree": [],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Eunomiamaster"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandragallo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAcWkYQB_2bASPYX9cZV8RMQewYULN6inBs;;;\n",
+    "Contact_url": []
+}

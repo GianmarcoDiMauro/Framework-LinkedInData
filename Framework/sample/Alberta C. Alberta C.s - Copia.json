@@ -1,0 +1,38 @@
+{
+    "Name": "Alberta C.",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Studente di laurea specialistica",
+            "company": "Universit\u00e0 di Pisa",
+            "duration": "1 yr 10 mos",
+            "location": null,
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Lavoro di tesi",
+            "company": "Dipartimento di Chimica e Chimica Industriale-UniPi Full-time",
+            "duration": "5 mos",
+            "location": null,
+            "from_date": "2019",
+            "to_date": "2019",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Bachelor's degree",
+                "Chemistry"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberta-carella-chemistry-technology?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADLmEu4BgLSXUpFppbdD__QaLay-MpBpJ-U;;;\n",
+    "Contact_url": []
+}

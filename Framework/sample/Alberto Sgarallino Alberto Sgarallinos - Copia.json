@@ -1,0 +1,39 @@
+{
+    "Name": "Alberto Sgarallino",
+    "Location": "Leghorn, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Gerente sala ristorante e bar",
+            "company": "BARACCHINA ROSSA S.R.L. Full-time",
+            "duration": "8 mos",
+            "location": "Livorno, Toscana, Italia",
+            "from_date": "2015",
+            "to_date": "2015",
+            "url": null
+        },
+        {
+            "position_title": "Barman",
+            "company": "Drink Dance Party Part-time",
+            "duration": "2 yrs",
+            "location": "Livorno, Toscana, Italia",
+            "from_date": "2013",
+            "to_date": "2014",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2015",
+            "to_date": "2018",
+            "university": "Universit\u00e0 degli Studi di Firenze",
+            "degree": [
+                "1\u00b0 livello - Laurea L",
+                "Scienze umanistiche per la comunicazione",
+                "104"
+            ],
+            "url": "https://www.linkedin.com/school/13869/?legacySchoolId=13869"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-sgarallino-5a9a71208?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADTWuREBGa6WbI_B2Sx9d8g-MyPByGh7Q0A;;;\n",
+    "Contact_url": []
+}

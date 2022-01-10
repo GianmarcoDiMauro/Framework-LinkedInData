@@ -1,0 +1,85 @@
+{
+    "Name": "A\u015fk\u0131n Uslu",
+    "Location": "Florence, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Work Study Student",
+            "company": "Abant \u0130zzet Baysal University",
+            "duration": null,
+            "location": null,
+            "from_date": "2011",
+            "to_date": "2017",
+            "url": "https://www.linkedin.com/company/abant-i%CC%87zzet-baysal-university/"
+        },
+        {
+            "position_title": "Research Intern",
+            "company": "Abant \u0130zzet Baysal University",
+            "duration": null,
+            "location": null,
+            "from_date": "2013",
+            "to_date": "2013",
+            "url": "https://www.linkedin.com/company/abant-i%CC%87zzet-baysal-university/"
+        },
+        {
+            "position_title": "Flight Attendant",
+            "company": "Turkish Airlines",
+            "duration": "2 yrs 5 mos",
+            "location": "Istanbul, Turkey",
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Referee",
+            "company": "Federazione Italiana Pallacanestro",
+            "duration": "3 yrs 9 mos",
+            "location": "Italy",
+            "from_date": "2017",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Referee",
+            "company": "Turkish Basketball Federation",
+            "duration": "4 yrs",
+            "location": null,
+            "from_date": "2013",
+            "to_date": "2017",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2017",
+            "to_date": "2020",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Master of Science - MS",
+                "Material Engineering and Nanotechnology"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2011",
+            "to_date": "2016",
+            "university": "Abant \u0130zzet Baysal \u00dcniversitesi",
+            "degree": [
+                "Bachelor of Science - BS",
+                "Chemistry"
+            ],
+            "url": "https://www.linkedin.com/school/17327/?legacySchoolId=17327"
+        },
+        {
+            "from_date": "2014",
+            "to_date": "2015",
+            "university": "Universit\u00e0 degli Studi di Firenze",
+            "degree": [
+                "Erasmus Mobility Programme",
+                "Chimica"
+            ],
+            "url": "https://www.linkedin.com/school/13869/?legacySchoolId=13869"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/askinuslu?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAgqR1cBgLusJA_qTvZHQNFY17OhGehQsw8;;;\n",
+    "Contact_url": []
+}

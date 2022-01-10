@@ -1,0 +1,41 @@
+{
+    "Name": "AHMAD ABU ZAHU",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "External Sales Coordinator",
+            "company": "national paints",
+            "duration": "1 yr 7 mos",
+            "location": null,
+            "from_date": "2008",
+            "to_date": "2010",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2014",
+            "to_date": "2015",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Master of Business Administration (MBA)",
+                "International Business",
+                "Participate PHD PLUS 2014 teams in Business Game"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Universit%C3%A0%20di%20Pisa"
+        },
+        {
+            "from_date": "2004",
+            "to_date": "2008",
+            "university": "YARMOUK UNIVERSITY",
+            "degree": [
+                "BANKING AND FINANCE",
+                "Banking and Financial",
+                "Methods of Generating Creative Ideas How To Be Leader Volunteer work with save the children ,life for youth"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=YARMOUK%20UNIVERSITY"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/ahmad-abu-zahu-48aa1793?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABPn6uoByadZODlMFwpJCH3kcp4t66NUo28;;;\n",
+    "Contact_url": []
+}

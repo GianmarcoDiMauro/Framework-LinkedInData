@@ -1,0 +1,47 @@
+{
+    "Name": "Aida Agovi",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Internship",
+            "company": "Universit\u00e0 di Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "2019",
+            "to_date": "2020",
+            "url": "https://www.linkedin.com/company/university-of-pisa/"
+        },
+        {
+            "position_title": "Laureato",
+            "company": "Universit\u00e0 di Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "2015",
+            "to_date": "2020",
+            "url": "https://www.linkedin.com/company/university-of-pisa/"
+        },
+        {
+            "position_title": "Internship",
+            "company": "Farmacia Galeazzi Internship",
+            "duration": "8 mos",
+            "location": "Pisa, Toscana, Italia",
+            "from_date": "2018",
+            "to_date": "2019",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2015",
+            "to_date": "2020",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea Magistrale LM",
+                "Chimica e Tecnologia Farmaceutiche"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/aida-agovi-1bab621a8?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADCUuJ4BQAzfnyG1ufynVwXUiYgEICKsKqc;;;\n",
+    "Contact_url": []
+}

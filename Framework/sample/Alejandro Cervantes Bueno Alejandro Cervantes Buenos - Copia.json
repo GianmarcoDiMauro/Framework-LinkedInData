@@ -1,0 +1,79 @@
+{
+    "Name": "Alejandro Cervantes Bueno",
+    "Location": "Valencian Community, Spain",
+    "Experiences": [
+        {
+            "position_title": "CEO",
+            "company": "HAMPA STUDIO",
+            "duration": "24 yrs 7 mos",
+            "location": "Valencia, Espa\u00f1a",
+            "from_date": "1997",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Ilustrador/Animador",
+            "company": "Autonomo",
+            "duration": "4 yrs 1 mo",
+            "location": "Valencia y alrededores, Espa\u00f1a",
+            "from_date": "1995",
+            "to_date": "1999",
+            "url": null
+        },
+        {
+            "position_title": "Animador 3D y 2D e Illustrador",
+            "company": "Green Planet",
+            "duration": "1 yr",
+            "location": "Valencia",
+            "from_date": "1996",
+            "to_date": "1997",
+            "url": null
+        },
+        {
+            "position_title": "Dise\u00f1ador e Ilustrador",
+            "company": "Star media",
+            "duration": "1 yr",
+            "location": "Valencia",
+            "from_date": "1995",
+            "to_date": "1996",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "1995",
+            "to_date": "1997",
+            "university": "Universitat Polit\u00e8cnica de Val\u00e8ncia (UPV)",
+            "degree": [
+                "Modulo 3",
+                "Ilustraci\u00f3n/animaci\u00f3n",
+                "Animation, Illustration, Direct, Art"
+            ],
+            "url": "https://www.linkedin.com/school/12242/?legacySchoolId=12242"
+        },
+        {
+            "from_date": "1990",
+            "to_date": "1994",
+            "university": "Instituto San vicente ferrer",
+            "degree": [
+                "Bachillerato, COU",
+                "Instituto",
+                "Bachillerato General y rama final de letras puras."
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Instituto%20San%20vicente%20ferrer"
+        },
+        {
+            "from_date": "1990",
+            "to_date": "1991",
+            "university": "Escuelas de Artesanos de Valencia",
+            "degree": [
+                "Preparaci\u00f3n Bellas Artes",
+                "Dibujo y Comic",
+                "Curso de 1 a\u00f1o para mejorar t\u00e9cnicas de dibujo al natural y dibujo para Comic"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Escuelas%20de%20Artesanos%20de%20Valencia"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alexcervantes?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAK8ROEBHDKlTFRqtwr_UF9MoKWQugFKml4\n",
+    "Contact_url": []
+}

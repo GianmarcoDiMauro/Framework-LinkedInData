@@ -1,0 +1,41 @@
+{
+    "Name": "Alekos Ioannis Garivalis",
+    "Location": "San Giuliano Terme, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "PHD Graduate Student",
+            "company": "Universit\u00e0 di Pisa",
+            "duration": "2 yrs 8 mos",
+            "location": "Pisa Area, Italy",
+            "from_date": "2018",
+            "to_date": "",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2016",
+            "to_date": "2018",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Master's Degree",
+                "Mechanical Engineering",
+                "110 cum laude"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2013",
+            "to_date": "2016",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Bachelor\u2019s Degree",
+                "Mechanical Engineering",
+                "110"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alekos-ioannis-garivalis-23774712b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB_3uIsBSYrNyvDYXLY-Xo4Icy7G3IMIvsM;;;\n",
+    "Contact_url": []
+}

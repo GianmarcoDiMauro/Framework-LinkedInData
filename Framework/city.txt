@@ -1,0 +1,427 @@
+Youngstown-Warren area:United States
+Greater Milan Metropolitan Area:Italy
+Greater Paris Metropolitan Region:France
+Greater Seattle Area:United States
+Dallas-Fort Worth Metroplex:United States
+Greater Pavia Metropolitan Area:Italy
+Greater Pescara Metropolitan Area:Italy
+Greater Bilbao Metropolitan Area:Spain
+Greater Marseille Metropolitan Area:France
+Metro Manila:Philippines
+Greater Trento Metropolitan Area:Italy
+Greater Boston:United States
+Greater Vicenza Metropolitan Area:Italy
+Greater Bolzano Metropolitan Area:Italy
+Greater Cleveland:United States
+Greater Indianapolis:United States
+San Francisco Bay Area:United States
+Greater Coventry Area:United Kingdom
+Greater Philadelphia:United States
+Greater Venice Metropolitan Area:Italy
+Greater Turin Metropolitan Area:Italy
+Greater Ancona Metropolitan Area:Italy
+Greater Tampa Bay Area:United States
+Greater Rome Metropolitan Area:Italy
+Copenhagen Metropolitan Area:Denmark
+Tulsa Metropolitan Area:United States
+Nashville Metropolitan Area:United States
+Greater Phoenix Area:United States
+Denver Metropolitan Area:United States
+New York City Metropolitan Area:United States
+Greater Bologna Metropolitan Area:Italy
+Greater Ferrara Metropolitan Area:Italy
+Greater Lecce Metropolitan Area:Italy
+Greater Chicago Area:United States
+Greater Pisa Metropolitan Area:Italy
+Greater Potenza Metropolitan Area:Italy
+Los Angeles Metropolitan Area:United States
+Greater Sydney Area:Australia
+Czechia:Czech Republic
+Greater Barcelona Metropolitan Area:Spain
+Greenland:Denmark
+Greater Pittsburgh Region:United States
+Greater Melbourne Area:Australia
+Greater Bergamo Metropolitan Area:Italy
+Greater Orlando:United States
+Atlanta Metropolitan Area:United States
+Greater Birmingham Area:United Kingdom
+Greater Verona Metropolitan Area:Italy
+Ohio Metropolitan Area:United States
+Greater Naples Metropolitan Area:Italy
+Cincinnati Metropolitan Area:United States
+Greater Hamburg Area:Germany
+Greater Udine Metropolitan Area:Italy
+Stuttgart Region:Germany
+Greater Treviso Metropolitan Area:Italy
+Greater Pesaro Metropolitan Area:Italy
+Greater Parma Metropolitan Area:Italy
+Greater Aalborg Area:Denmark
+Greater Padova (Padua) Metropolitan Area:Italy
+Greater Brescia Metropolitan Area:Italy
+Greater Houston:United States
+Greater Varese Metropolitan Area:Italy
+The Bahamas:Bahamas
+Greater Surabaya:Indonesia
+Greater Munich Metropolitan Area:Germany
+Greater Dublin:Ireland
+Greater Nottingham:United Kingdom
+Hong Kong SAR:China
+Raleigh-Durham-Chapel Hill Area:United States
+Washington DC-Baltimore Area:United States
+Greater Minneapolis-St. Paul Area:United States
+Christchurch Metropolitan Area:New Zealand
+Frankfurt Rhine-Main Metropolitan Area:Germany
+Omaha Metropolitan Area:United States
+Detroit Metropolitan Area:United States
+New York Metropolitan Area:United States
+Brussels Metropolitan Area:Belgium
+Greater Málaga Metropolitan Area:Spain
+Greater Modena Metropolitan Area:Italy
+Italy Metropolitan Area:Italy
+Greater Madrid Metropolitan Area:Spain
+Cologne Bonn Region:Germany
+Jakarta Metropolitan Area:Indonesia
+Greater Genoa Metropolitan Area:Italy
+Greater Sevilla Metropolitan Area:Spain
+South Carolina Area:United States
+Greater Dijon Area:France
+Northern Borders Region:Saudi Arabia
+Greater Livorno(Leghorn) Metropolitan Area:Italy
+Missouri Area:United States
+Alabama Area:United States
+Greater Toulouse Metropolitan Area:France
+Lisbon Metropolitan Area:Portugal
+Greater Rimini Metropolitan Area:Italy
+Greater Freiburg Area:Germany
+Stockholm Metropolitan Area:Sweden
+Puerto Rico:United States
+Greater Milwaukee:United States
+Greater Abilene Area:United States
+Greater Aarhus Area:Denmark
+Oita-Beppu Metropolitan Area:Japan
+Greater Salerno Metropolitan Area:Italy
+Côte d’Ivoire:Ivory Coast
+Prague Metropolitan Area:Czech Republic
+Greater Bari Metropolitan Area:Italy
+Greater Cosenza Metropolitan Area:Italy
+Greater Pamplona Area:Spain
+Helsinki Metropolitan Area:Finland
+Greater Aberdeen Area:United Kingdom
+Berlin Metropolitan Area:Germany
+Greater Kuala Lumpur:Malaysia
+Greater Grenoble Metropolitan Area:France
+Greater Piacenza Metropolitan Area:Italy
+Greater Harrisburg Area:United States
+Las Vegas Metropolitan Area:United States
+Porto Metropolitan Area:Portugal
+Greater Palermo Metropolitan Area:Italy
+Boise Metropolitan Area:United States
+Greater St. Louis:United States
+Greater Cagliari Metropolitan Area:Italy
+Greater Vancouver Metropolitan Area:Canada
+Greater Dresden Area:Germany
+Johannesburg Metropolitan Area:South Africa
+Greater La Spezia Metropolitan Area:Italy
+Greater Viareggio Metropolitan Area:Italy
+Kharkiv Metropolitan Area:Ukraine
+kuala lumpur:Malaysia
+Milano:Italy
+Ohio Area:United States
+Utah Area:United States
+Pennsylvania:United States
+Havelian:Pakistan
+Türkiye:Turkey
+Canada Area:Canada
+Italia:Italy
+Ohio:United States
+Tunisie:Tunisia
+Danmark:Denmark
+Lagos:Nigeria
+Germania:Germany
+Spagna:Spain
+California:United States
+Firenze:Italy
+Pisa:Italy
+Lucca:Italy
+Siena:Italy
+Grosseto:Italy
+Prato:Italy
+Catania:Italy
+Pontedera:Italy
+Viareggio:Italy
+Roma:Italy
+Francia:France
+Svizzera:Switzerland
+Italien:Italy
+Bologna:Italy
+Torino:Italy
+Florence:Italy
+Utah:United States
+Arizona:United States
+New York Area:United States
+New York:United States
+U.K.:United Kingdom
+Potenza:Italy
+Trieste:Italy
+Sydney:Australia
+Svezia:Sweden
+Bolzano:Italy
+Toronto:Canada
+Portogallo:Portugal
+USA:United States
+Chelsea:United Kingdom
+Islamabad:Pakistan
+Stati Uniti:United States
+Bhubaneswar:India
+London:United Kingdom
+México:United States
+Regno Unito:United Kingdom
+Edimburgo:United Kingdom
+Edinburgh:United Kingdom
+Cosenza:Italy
+Greater New York City Area:United States
+Texas:United States
+Greater Los Angeles Area:United States
+New Jersey:United States
+Brussels:Belgium
+Pavia:Italy
+Ancona:Italy
+Giordania:Jordan
+Bozen:Italy
+Bayern:Germany
+Greater Atlanta Area:United States
+Aarhus:Denmark
+Aalborg:Denmark
+Oklahoma Area:United States
+Milan:Italy
+Johannesburg:South Africa
+Hong Kong:China
+Lahore:Pakistan
+Zürich:Switzerland
+Australien:Australia
+Copenhagen:Denmark
+Naples:Italy
+Parma:Italy
+UK:United Kingdom
+Rome:Italy
+Washington:United States
+Califonia:United States
+Filippine:Philippines
+Illinois:United States
+Istanbul:Turkey
+Deutschland:Germany
+España:Spain
+Munich:Germany
+Tyskland:Germany
+CA:United States
+OH:United States
+NY:United States
+PA:United States
+Washington D.C. Metro Area:United States
+MA:United States
+Florida Area:United States
+California Area:United States
+NJ:United States
+Texas Area:United States
+Arizona Area:United States
+Peshawar:Pakistan
+UAE:United Arab Emirates
+AZ:United States
+Greater Philadelphia Area:United States
+TX:United States
+Danimarca:Denmark
+Belgio:Belgium
+Dallas/Fort Worth Area:United States
+Mardan:Pakistan
+Greater Boston Area:United States
+Florida:United States
+Frederiksberg:Denmark
+İstanbul:Turkey
+Pennsylvania Area:United States
+Dubai:United Arab Emirates
+Paesi Bassi:Netherlands
+Indiana:United States
+Greater San Diego Area:United States
+Frankrig:France
+CT:Italy
+Missouri:United States
+Kayseri:Turkey
+Boston:United States
+Mumbai:India
+København:Denmark
+New Delhi:India
+Estados Unidos:United States
+Empoli:Italy
+Ankara:Turkey
+中国 广东 深圳:China
+Shenzhen:China
+Accra:Ghana
+Italie:Italy
+Virginia:United States
+Genova:Italy
+Livorno:Italy
+Alabama:United States
+Russian Federation:Russia
+Hjørring:Denmark
+Frederikshavn:Denmark
+Maharashtra:India
+Jakarta:Indonesia
+Aars:Denmark
+Venice:Italy
+Venezia:Italy
+São Paulo:Brazil
+New York City:United States
+Brunico:Italy
+Reino Unido:United Kingdom
+Chicago:United States
+Beijing:China
+Peking:China
+Pechino:China
+北京市:China
+Padova:Italy
+Trento:Italy
+Massachusetts:United States
+Brasile:Brazil
+Corfu:Greece
+Palermo:Italy
+Lussemburgo:Luxembourg
+Helsinki:Finland
+Budapest:Hungary
+Dhaka:Bangladesh
+Los Angeles:United States
+Holzkirchen:Germany
+Leipzig:Germany
+Lipsia:Germany
+Lisbon:Portugal
+Lisbona:Portugal
+Bolzan:Italy
+Côte d'Ivoire:Ivory Coast
+Riccione:Italy
+San Francisco:United States
+Repubblica Ceca:Czech Republic
+Scotland:United Kingdom
+Scozzia:United Kingdom
+東京都港区:Japan
+Minato:Japan
+Tokyo:Japan
+San Diego:United States
+Belgrade:Serbia
+Madrid:Spain
+Barcelona:Spain
+Barcellona:Spain
+Campobasso:Italy
+Massa:Italy
+Massa-Carrara:Italy
+Washington DC:United States
+Dublin:Ireland
+Bangkok:Thailand
+Quito:Ecuador
+Bari:Italy
+Greater Valencia Metropolitan Area:Spain
+Greater Catania Metropolitan Area:Italy
+Greater Perugia Metropolitan Area:Italy
+Greater Terni Metropolitan Area:Italy
+Greater Cambridge Area:United Kingdom
+Ghent Metropolitan Area:Belgium
+Bogotá D.C. Metropolitan Area:Colombia
+Greater Reggio Calabria Metropolitan Area:Italy
+Greater Leipzig Area:Germany
+Greater Benevento Metropolitan Area:Italy
+Greater Prato Metropolitan Area:Italy
+Greater Biella Metropolitan Area:Italy
+Italy Area:Italy
+Mexico Metropolitan Area:Mexico
+Greater Massa Metropolitan Area:Italy
+Greater Catanzaro Metropolitan Area:Italy
+Greater Trieste Metropolitan Area:Italy
+Greater Tokyo Area:Japan
+Greater Savona Metropolitan Area:Italy
+Basel Metropolitan Area:Switzerland
+Greater Lyon Area:France
+Greater Rennes Metropolitan Area:France
+Greater Messina Metropolitan Area:Italy
+Greater Strasbourg Metropolitan Area:France
+Greater Taranto Metropolitan Area:Italy
+Greater Zurich Area:Switzerland
+Kansas City Metropolitan Area:United States
+Greater Carrara Metropolitan Area:Italy
+Greater Reggio Emilia Metropolitan Area:Italy
+Greater Forli Metropolitan Area:Italy
+Greater Avellino Metropolitan Area:Italy
+Lausanne Metropolitan Area:Switzerland
+Greater Matera Metropolitan Area:Italy
+Greater Lille Metropolitan Area:France
+Mumbai Metropolitan Region:India
+Greater Caserta Metropolitan Area:Italy
+Mexico City Metropolitan Area:Mexico
+Tampere Metropolitan Area:Finland
+Greater Groningen Area:Netherlands
+Greater Edinburgh Area:United Kingdom
+Greater Gijón Metropolitan Area:Spain
+Greater Clermont-Ferrand Area:France
+Hannover-Braunschweig-Göttingen-Wolfsburg Region:Germany
+Greater Oxford Area:United Kingdom
+Greater Campobasso Metropolitan Area:Italy
+Greater Nimes Area:France
+Canada Metropolitan Area:Canada
+Greater Glasgow Area:United Kingdom
+Greater Charlottesville Area:United States
+Greater Sassari Metropolitan Area:Italy
+Greater Enschede Area:Netherlands
+Greater Novara Metropolitan Area:Italy
+Antwerp Metropolitan Area:Belgium
+Greater Pau Area:France
+Greater Leeds Area:United Kingdom
+Greater Nice Metropolitan Area:France
+Hangzhou-Shaoxing Metropolitan Area:China
+Vienna:Austria
+Napoli:Italy
+Bruxelles:Belgium
+Brasil:Brazil
+siena:Italy
+Sicilia:Italy
+The Netherlands:Netherlands
+Federazione russa:Russia
+La Spezia:Italy
+Verona:Italy
+Modena:Italy
+Leuven:Belgium
+Arezzo:Italy
+Minnesota:United States
+Jalisco:Mexico
+Pasadena:United States
+Irlanda:Ireland
+Toscana:Italy
+Brescia:Italy
+Rimini:Italy
+Giappone:Japan
+Ferrara:Italy
+Ungheria:Hungary
+Foggia:Italy
+Lecce:Italy
+L'Aquila:Italy
+Benevento:Italy
+Rovereto:Italy
+Vicenza:Italy
+Polska:Poland
+Herning:Denmark
+Addis Ababa:Ethiopia
+Valencia:Spain
+Pistoia:Italy
+Turin:Italy
+Treviso:Italy
+Berlin:Germany
+Shanghai:China
+Lodi:Italy
+Reggio Emilia:Italy
+Marseille:France
+Amsterdam:Netherlands
+Salerno:Italy
+Leiden:Holland
+Seoul:South Korea
+Bangalore:India
+Chieti:Italy
+Polonia:Poland
+Parigi:France
+Tirana:Albania
+Londra:United Kingdom

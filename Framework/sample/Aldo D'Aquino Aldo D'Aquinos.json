@@ -1,0 +1,49 @@
+{
+    "Name": "Aldo D'Aquino",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Infrastructure Engineer",
+            "company": "Bending Spoons Full-time",
+            "duration": "10 mos",
+            "location": "Milan, Lombardy, Italy",
+            "from_date": "2020",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Intern",
+            "company": "Extra Red",
+            "duration": "4 mos",
+            "location": null,
+            "from_date": "2020",
+            "to_date": "2020",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2018",
+            "to_date": "2020",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Master Degree in Computer Science, ICT Solution Architect",
+                "110 e lode"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2014",
+            "to_date": "2018",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea in Informatica",
+                "Informatica",
+                "97"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/daquinoaldo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB3wSBYBcO-rQAvfH3bq-nViYcw9aLlC6lc;;;\n",
+    "Contact_url": []
+}

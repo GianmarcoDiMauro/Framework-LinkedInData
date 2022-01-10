@@ -1,0 +1,86 @@
+{
+    "Name": "Alberto Caviglia (he/him)",
+    "Location": "Arenzano, Liguria, Italy",
+    "Experiences": [
+        {
+            "position_title": "Business Analyst",
+            "company": "GELLIFY Full-time",
+            "duration": "3 mos",
+            "location": "Bologna, Emilia Romagna, Italia",
+            "from_date": "2021",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Co-Founder",
+            "company": "XY+ Self-employed",
+            "duration": "1 yr 2 mos",
+            "location": "Italia",
+            "from_date": "2020",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Innovation and Business Process Intern",
+            "company": "Philip Morris International",
+            "duration": "1 yr 1 mo",
+            "location": "Lausanne Area, Svizzera",
+            "from_date": "2019",
+            "to_date": "2020",
+            "url": null
+        },
+        {
+            "position_title": "Team Member - Business Plan Event",
+            "company": "E-Team Squadra Corse",
+            "duration": "11 mos",
+            "location": "Pisa Area, Italy",
+            "from_date": "2018",
+            "to_date": "2019",
+            "url": null
+        },
+        {
+            "position_title": "\"Marketing\" and \"Business Plan Presentation\" Teams Member",
+            "company": "E-agle Trento Racing Team",
+            "duration": "11 mos",
+            "location": "Trento Area, Italy",
+            "from_date": "2017",
+            "to_date": "2018",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2021",
+            "to_date": "",
+            "university": "The Motorsport MBA",
+            "degree": [
+                "Online Motorsport MBA Management Programme",
+                "Business Administration, Management and Operations"
+            ],
+            "url": "https://www.linkedin.com/school/4147010/?legacySchoolId=4147010"
+        },
+        {
+            "from_date": "2017",
+            "to_date": "2019",
+            "university": "Scuola Superiore Sant'Anna",
+            "degree": [
+                "MSc, Master of Science, Innovation Management",
+                "110/110"
+            ],
+            "url": "https://www.linkedin.com/school/42262/?legacySchoolId=42262"
+        },
+        {
+            "from_date": "2017",
+            "to_date": "2019",
+            "university": "University of Trento",
+            "degree": [
+                "MSC - Master of Science",
+                "Innovation Management",
+                "110/110"
+            ],
+            "url": "https://www.linkedin.com/school/13893/?legacySchoolId=13893"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-caviglia?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABGI8BgBhi38hW9UOWfq1AJp4i-kfnOB9gc\n",
+    "Contact_url": []
+}

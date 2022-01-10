@@ -1,0 +1,103 @@
+{
+    "Name": "Alessandra Lazazzara",
+    "Location": "Milan, Lombardy, Italy",
+    "Experiences": [
+        {
+            "position_title": "Associate Professor of Organization and Human Resource Management",
+            "company": "Universit\u00e0 degli Studi di Milano",
+            "duration": null,
+            "location": null,
+            "from_date": "2020",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/university-of-milan/"
+        },
+        {
+            "position_title": "Assistant Professor of Organization and Human Resource Management",
+            "company": "Universit\u00e0 degli Studi di Milano",
+            "duration": null,
+            "location": null,
+            "from_date": "2017",
+            "to_date": "2020",
+            "url": "https://www.linkedin.com/company/university-of-milan/"
+        },
+        {
+            "position_title": "Adjunct lecturer",
+            "company": "Universit\u00e0 degli Studi di Milano-Bicocca",
+            "duration": null,
+            "location": null,
+            "from_date": "2015",
+            "to_date": "2017",
+            "url": "https://www.linkedin.com/company/university-degli-studi-di-milano-bicocca/"
+        },
+        {
+            "position_title": "Postdoctoral researcher",
+            "company": "Universit\u00e0 degli Studi di Milano-Bicocca",
+            "duration": null,
+            "location": null,
+            "from_date": "2012",
+            "to_date": "2017",
+            "url": "https://www.linkedin.com/company/university-degli-studi-di-milano-bicocca/"
+        },
+        {
+            "position_title": "Member of the Editorial Board",
+            "company": "The International Journal of Human Resource Management",
+            "duration": "7 yrs 8 mos",
+            "location": null,
+            "from_date": "2013",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "PhD Candidate",
+            "company": "University of Milan-Bicocca",
+            "duration": "3 yrs 1 mo",
+            "location": "Milan",
+            "from_date": "2009",
+            "to_date": "2012",
+            "url": null
+        },
+        {
+            "position_title": "Visiting Doctoral Researcher",
+            "company": "NIDI - Netherland Interdisciplinary Demographic Institute",
+            "duration": "6 mos",
+            "location": "Den Haag (The Hague)",
+            "from_date": "2011",
+            "to_date": "2011",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2009",
+            "to_date": "2011",
+            "university": "University of Milan-Bicocca",
+            "degree": [
+                "Doctor of Philosophy (PhD)",
+                "Organizational Development"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=University%20of%20Milan-Bicocca"
+        },
+        {
+            "from_date": "2014",
+            "to_date": "2014",
+            "university": "University of Essex",
+            "degree": [
+                "Essex Summer School in Social Science Data Analysis and Collection",
+                "Causal Models and Structural Equations"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=University%20of%20Essex"
+        },
+        {
+            "from_date": "2010",
+            "to_date": "2010",
+            "university": "SDIPA - Scuola di Direzione per le Imprese e la Pubblica Amministrazione",
+            "degree": [
+                "Summer school",
+                "Multivariate Analysis"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=SDIPA%20-%20Scuola%20di%20Direzione%20per%20le%20Imprese%20e%20la%20Pubblica%20Amministrazione"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-lazazzara-6a185014?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAL4-NkBriurkHmdGdLWlf8yXWFynQXxeSU\n",
+    "Contact_url": []
+}

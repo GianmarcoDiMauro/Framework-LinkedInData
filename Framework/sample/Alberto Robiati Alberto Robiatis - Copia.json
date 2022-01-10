@@ -1,0 +1,83 @@
+{
+    "Name": "Alberto Robiati",
+    "Location": "Greater Turin Metropolitan Area",
+    "Experiences": [
+        {
+            "position_title": "Co-founder / Director",
+            "company": "Forwardto - Studi e competenze per scenari futuri Self-employed",
+            "duration": "1 yr 11 mos",
+            "location": "Torino, Italia",
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Progettista e docente",
+            "company": "Universit\u00e0 degli Studi di Torino",
+            "duration": "4 yrs 7 mos",
+            "location": "Torino, Italia",
+            "from_date": "2017",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Crescita umana e professionale",
+            "company": "Organizzazioni profit, pubbliche e non profit",
+            "duration": "17 yrs 7 mos",
+            "location": "Italia",
+            "from_date": "2004",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Leadership & Team Building",
+            "company": "Coop Italia",
+            "duration": "10 yrs 3 mos",
+            "location": "Bologna Area, Italy",
+            "from_date": "2011",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Author",
+            "company": "Freelance",
+            "duration": "12 yrs",
+            "location": null,
+            "from_date": "2009",
+            "to_date": "",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "1995",
+            "to_date": "2001",
+            "university": "Universit\u00e0 degli Studi di Torino",
+            "degree": [
+                "Laurea",
+                "Facolt\u00e0 di Scienze della Comunicazione - Universit\u00e0 di Torino"
+            ],
+            "url": "https://www.linkedin.com/school/13892/?legacySchoolId=13892"
+        },
+        {
+            "from_date": "2003",
+            "to_date": "2005",
+            "university": "Istituto Change",
+            "degree": [
+                "Counseling sistemico"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Istituto%20Change"
+        },
+        {
+            "from_date": "2006",
+            "to_date": "2007",
+            "university": "ITAT Istituto Torinese Analisi Transazionale",
+            "degree": [
+                "Counseling analitico-transazionale"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=ITAT%20Istituto%20Torinese%20Analisi%20Transazionale"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/albertorobiati?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA4NsMBFiRfRB9G9U5tQoGVWSgb4q3b-A8\n",
+    "Contact_url": []
+}

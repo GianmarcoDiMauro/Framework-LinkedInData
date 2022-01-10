@@ -1,0 +1,59 @@
+{
+    "Name": "Alberto Rufini",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Export Manager",
+            "company": "Octapharma Full-time",
+            "duration": "6 yrs 4 mos",
+            "location": "Pisa, Italia",
+            "from_date": "2015",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Ricercatore di mercato a tempo determinato",
+            "company": "Flyby",
+            "duration": "10 mos",
+            "location": "Livorno, Italia",
+            "from_date": "2014",
+            "to_date": "2014",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2020",
+            "to_date": "2020",
+            "university": "Universit\u00e0 degli Studi di Firenze",
+            "degree": [
+                "MASTER PHARMAMARK IN MARKETING FARMACEUTICO"
+            ],
+            "url": "https://www.linkedin.com/school/13869/?legacySchoolId=13869"
+        },
+        {
+            "from_date": "2012",
+            "to_date": "2014",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea Magistrale LM",
+                "Marketing & Market Research, Master Degree Campo di studi Marketing & Market Research",
+                "Winning Group in the Master Competition in Best Market Research. Market Research Subject: \"The digitalization and use of on-line tools in Companies based in Vicenza Area\u201c a.a.2012/13-a.a. 2014/2015 Main Subjects: -Marketing and Market Research, -Sampling, -Statistics for market research, -Demographic Models for Market Research -Marketing Management, -Consumer Behavior Analysis,"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2013",
+            "to_date": "2013",
+            "university": "Erhvervsakademi Aarhus / Business Academy Aarhus",
+            "degree": [
+                "Laurea Magistrale LM",
+                "International Marketing Management",
+                "Erasmus Exchange Student. The Erasmus Programme is a European Union student exchange programme established in 1987. - International Economics - International Marketing and Sales - Market Communication (elective) - Communication, Organisation and Management"
+            ],
+            "url": "https://www.linkedin.com/school/43109/?legacySchoolId=43109"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-rufini-463ba0b1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABfYwIsBRPmLLy-I_ijJdxh2LTzANfSBVCo\n",
+    "Contact_url": []
+}

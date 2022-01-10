@@ -1,0 +1,95 @@
+{
+    "Name": "Alberto Cicora",
+    "Location": "Leghorn, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Business Development Consultant - Head Hunter",
+            "company": "NonStop Chemical",
+            "duration": null,
+            "location": null,
+            "from_date": "2018",
+            "to_date": "2019",
+            "url": "https://www.linkedin.com/company/nonstop-consulting/"
+        },
+        {
+            "position_title": "Resourcer",
+            "company": "NonStop Chemical",
+            "duration": null,
+            "location": null,
+            "from_date": "2018",
+            "to_date": "2018",
+            "url": "https://www.linkedin.com/company/nonstop-consulting/"
+        },
+        {
+            "position_title": "Business Development & Sales Executive - Italy",
+            "company": "Teamtailor Full-time",
+            "duration": "1 yr 6 mos",
+            "location": "Madrid Area, Spain",
+            "from_date": "2020",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "\u2601\ufe0fGoogle Cloud Platform Specialist \u2601\ufe0f",
+            "company": "Expandi Group Full-time",
+            "duration": "5 mos",
+            "location": "Madrid Area, Spain",
+            "from_date": "2019",
+            "to_date": "2020",
+            "url": null
+        },
+        {
+            "position_title": "Account Executive - South Europe",
+            "company": "Socialbakers Full-time",
+            "duration": "10 mos",
+            "location": "Prague, The Capital, Czech Republic",
+            "from_date": "2019",
+            "to_date": "2019",
+            "url": null
+        },
+        {
+            "position_title": "Business Development Intern",
+            "company": "Mitie",
+            "duration": "6 mos",
+            "location": "Bristol, United Kingdom",
+            "from_date": "2017",
+            "to_date": "2017",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2012",
+            "to_date": "2016",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Bachelor\u2019s Degree",
+                "Political Science and International Relations"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2014",
+            "to_date": "2014",
+            "university": "Universidad Complutense de Madrid",
+            "degree": [
+                "Erasmus+",
+                "International Relations and Affairs",
+                "- Group Works - Writing Essays - Public speaking - Basketball"
+            ],
+            "url": "https://www.linkedin.com/school/12202/?legacySchoolId=12202"
+        },
+        {
+            "from_date": "2005",
+            "to_date": "2010",
+            "university": "Liceo Scientifico F. Enriques",
+            "degree": [
+                "Diploma",
+                "Indirizzo Biologico"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Liceo%20Scientifico%20F.%20Enriques"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-cicora?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB2wdjkB-lD6bc9G7daX-N5DSnEmD1XpgjU\n",
+    "Contact_url": []
+}

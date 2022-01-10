@@ -1,0 +1,44 @@
+{
+    "Name": "Ale Mustang",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Direttore artistico",
+            "company": "Lavoratore autonomo",
+            "duration": "4 yrs 4 mos",
+            "location": null,
+            "from_date": "2017",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Event Director",
+            "company": "Discoteche",
+            "duration": "26 yrs 4 mos",
+            "location": "Versilia",
+            "from_date": "1995",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "General Manager TOP EVENTS Pubbliche Relazioni & TUSCANY Eventi S.a.s",
+            "company": "TOP Events & TUSCANY EVENTI S.a.s",
+            "duration": "9 yrs 7 mos",
+            "location": "Pisa, Italia",
+            "from_date": "2012",
+            "to_date": "",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alemustangeventproducer?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABV8IiABE_njio2CYhEeY5JMtW9Yd1_-xQQ;;;\n",
+    "Contact_url": []
+}

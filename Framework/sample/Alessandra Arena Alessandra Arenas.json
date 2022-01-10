@@ -1,0 +1,40 @@
+{
+    "Name": "Alessandra Arena",
+    "Location": "Catania, Sicily, Italy",
+    "Experiences": [
+        {
+            "position_title": "Tirocinante",
+            "company": "Residenza Sanitaria Assistenziale",
+            "duration": "7 mos",
+            "location": null,
+            "from_date": "2018",
+            "to_date": "2018",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2016",
+            "to_date": "2018",
+            "university": "Universit\u00e0 degli Studi di Pisa",
+            "degree": [
+                "Laurea Magistrale LM61",
+                "scienze della nutrizione umana",
+                "110 e Lode"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Universit%C3%A0%20degli%20Studi%20di%20Pisa"
+        },
+        {
+            "from_date": "2012",
+            "to_date": "2016",
+            "university": "Universit\u00e0 degli Studi di Catania",
+            "degree": [
+                "Laurea triennale",
+                "scienze erboristiche e prodotti nutraceutici"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Universit%C3%A0%20degli%20Studi%20di%20Catania"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-arena-10789b17a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACp9Y9cBmtZwrw4eHcGKSCja6Wnvwnw7CUM;;;\n",
+    "Contact_url": []
+}

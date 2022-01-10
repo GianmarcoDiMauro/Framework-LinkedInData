@@ -1,0 +1,86 @@
+{
+    "Name": "Agostina Grillone",
+    "Location": "Greater Rome Metropolitan Area",
+    "Experiences": [
+        {
+            "position_title": "Quality Control",
+            "company": "REITHERA S.R.L.",
+            "duration": "2 yrs 6 mos",
+            "location": "Rome, Italy",
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Post doctoral fellow",
+            "company": "Istituto Italiano di Tecnologia",
+            "duration": "1 yr",
+            "location": "Pontedera, Italy",
+            "from_date": "2017",
+            "to_date": "2018",
+            "url": null
+        },
+        {
+            "position_title": "PHD Student",
+            "company": "Istituto Italiano di Tecnologia",
+            "duration": "3 yrs 8 mos",
+            "location": "Pontedera, Italy",
+            "from_date": "2013",
+            "to_date": "2017",
+            "url": null
+        },
+        {
+            "position_title": "Visiting PHD Student",
+            "company": "\u65e9\u7a32\u7530\u5927\u5b66 WASEDA University",
+            "duration": "6 mos",
+            "location": "Tokyo, Japan",
+            "from_date": "2016",
+            "to_date": "2016",
+            "url": null
+        },
+        {
+            "position_title": "Internship Trainee",
+            "company": "Santa Chiara University Hospital",
+            "duration": "5 mos",
+            "location": "Pisa, Italia",
+            "from_date": "2013",
+            "to_date": "2013",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2013",
+            "to_date": "2017",
+            "university": "Scuola Superiore Sant' Anna di Studi Universitari e di Perfezionamento",
+            "degree": [
+                "Doctor of Philosophy - PhD",
+                "BioRobotics",
+                "100 /100 summa cum laude"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Scuola%20Superiore%20Sant%27%20Anna%20di%20Studi%20Universitari%20e%20di%20Perfezionamento"
+        },
+        {
+            "from_date": "2016",
+            "to_date": "",
+            "university": "\u65e9\u7a32\u7530\u5927\u5b66 WASEDA University",
+            "degree": [
+                "Visiting Ph.D. Student"
+            ],
+            "url": "https://www.linkedin.com/school/14410/?legacySchoolId=14410"
+        },
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Master\u2019s Degree",
+                "Cellular and Molecular Biology",
+                "110/110"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/agostina-grillone-98244473?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA-MhHIBN7Hn-IhH9_ezjjvrWes16GMnxP0;;;\n",
+    "Contact_url": []
+}

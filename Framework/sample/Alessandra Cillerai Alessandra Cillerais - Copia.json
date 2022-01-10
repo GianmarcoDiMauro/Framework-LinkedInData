@@ -1,0 +1,64 @@
+{
+    "Name": "Alessandra Cillerai",
+    "Location": "La Spezia, Liguria, Italy",
+    "Experiences": [
+        {
+            "position_title": "Comunicazione Aziendale",
+            "company": "Laghezza spa Contract",
+            "duration": "1 yr 9 mos",
+            "location": "La Spezia",
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Comunicazione Aziendale",
+            "company": "Libera professionista",
+            "duration": "2 yrs 7 mos",
+            "location": "Italy",
+            "from_date": "2019",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Consulente Comunicazione aziendale e social media",
+            "company": "Cantine Lunae Bosoni Srl Self-employed",
+            "duration": "1 yr 5 mos",
+            "location": "Castelnuovo Magra",
+            "from_date": "2019",
+            "to_date": "2020",
+            "url": null
+        },
+        {
+            "position_title": "Responsabile comunicazione marketing",
+            "company": "TELAVELA",
+            "duration": "4 yrs 4 mos",
+            "location": "Italia",
+            "from_date": "2014",
+            "to_date": "2019",
+            "url": null
+        },
+        {
+            "position_title": "account executive",
+            "company": "RES Comunicazione Srl",
+            "duration": "11 yrs",
+            "location": null,
+            "from_date": "2003",
+            "to_date": "2014",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Universit\u00e0 degli Studi di Firenze",
+            "degree": [
+                "Laurea Scienze Politiche"
+            ],
+            "url": "https://www.linkedin.com/school/13869/?legacySchoolId=13869"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-cillerai-68702b1a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAPrUAcBg45LY75wK2DXWWSSH0dlxce65Hw\n",
+    "Contact_url": []
+}

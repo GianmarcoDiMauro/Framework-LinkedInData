@@ -1,0 +1,86 @@
+{
+    "Name": "Alberto Venturini",
+    "Location": "Florence, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Docente",
+            "company": "Universit\u00e0 di Pisa Contract",
+            "duration": "1 yr 5 mos",
+            "location": "Pisa",
+            "from_date": "2020",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "HR Temporary Manager",
+            "company": "Proaxxes srl",
+            "duration": "5 yrs 10 mos",
+            "location": "Firenze, Italia",
+            "from_date": "2015",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Psicologo del Lavoro",
+            "company": "www.albertoventurini.it",
+            "duration": "24 yrs 1 mo",
+            "location": null,
+            "from_date": "1997",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Outdoor Training",
+            "company": "montecristosailing",
+            "duration": "15 yrs",
+            "location": null,
+            "from_date": "2006",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "HR Temporary Manager",
+            "company": "Odissea",
+            "duration": "11 mos",
+            "location": "Capannori",
+            "from_date": "2019",
+            "to_date": "2020",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2013",
+            "to_date": "2013",
+            "university": "Apics: The association for operations Management. Chicago, IL 60631 USA",
+            "degree": [
+                "T.T.T.: Train The Trainer and L.D.I.: Learning Dynamics for Istructor",
+                "Apics: The association for operations Management. Chicago, IL 60631 USA"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Apics%3A%20The%20association%20for%20operations%20Management.%20Chicago%2C%20IL%2060631%20USA"
+        },
+        {
+            "from_date": "2010",
+            "to_date": "2010",
+            "university": "Regione Toscana - Studio Meta e Associati",
+            "degree": [
+                "Certificatore delle Competenze",
+                "Risorse Umane",
+                "La nuova normativa di Regione Toscana sugli standard per il sistema regionale per la descrizione, la formazione, il riconoscimento e la certificazione delle competenze."
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Regione%20Toscana%20-%20Studio%20Meta%20e%20Associati"
+        },
+        {
+            "from_date": "1999",
+            "to_date": "2002",
+            "university": "Centro Studi e Applicazione della Psicologia Relazionale di Prato. Socio della scuola di Psicologia",
+            "degree": [
+                "Psicoterapeuta",
+                "Psicologia"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Centro%20Studi%20e%20Applicazione%20della%20Psicologia%20Relazionale%20di%20Prato.%20Socio%20della%20scuola%20di%20Psicologia"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/venturinialberto?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAVK8gQB-NTHiJU8oxKbwU2bYWR-1hUMD6o;;;\n",
+    "Contact_url": []
+}

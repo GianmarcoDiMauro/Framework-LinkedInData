@@ -1,0 +1,86 @@
+{
+    "Name": "Alessandra Di Natale",
+    "Location": "Catania, Sicily, Italy",
+    "Experiences": [
+        {
+            "position_title": "Freelance DVM",
+            "company": "Veterinary medicine",
+            "duration": "3 yrs",
+            "location": null,
+            "from_date": "2018",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Research Collaborator",
+            "company": "Universit\u00e0 di Pisa",
+            "duration": "6 mos",
+            "location": null,
+            "from_date": "2020",
+            "to_date": "2020",
+            "url": null
+        },
+        {
+            "position_title": "Medico Veterinario Ispettore",
+            "company": "Azienda Sanitaria Locale - Ispezione degli alimenti e Sanit\u00e0 animale Internship",
+            "duration": "less than a year",
+            "location": "Teramo, Italia",
+            "from_date": "2018",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Veterinary Medicine Professional",
+            "company": "Clinica Veterinaria Internship",
+            "duration": "less than a year",
+            "location": "Teramo",
+            "from_date": "2018",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Veterinary Medicine Professional",
+            "company": "Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise Internship",
+            "duration": "less than a year",
+            "location": "Sede centrale di Teramo",
+            "from_date": "2018",
+            "to_date": "",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2020",
+            "to_date": "2022",
+            "university": "Pisa University",
+            "degree": [
+                "Master"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2018",
+            "to_date": "",
+            "university": "Universit\u00e0 degli Studi di Teramo",
+            "degree": [
+                "Abilitazione professionale",
+                "Medicina veterinaria",
+                "Abilitata"
+            ],
+            "url": "https://www.linkedin.com/school/13891/?legacySchoolId=13891"
+        },
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Universit\u00e0 degli Studi di Teramo",
+            "degree": [
+                "Laurea",
+                "Medicina veterinaria",
+                "110/110 CON LODE"
+            ],
+            "url": "https://www.linkedin.com/school/13891/?legacySchoolId=13891"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-di-natale-49bb441a0?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC8npbcB1E5HzbERblG5yfeUB_a2nJQx7gw;;;\n",
+    "Contact_url": []
+}

@@ -1,0 +1,60 @@
+{
+    "Name": "Alberto Spampinato",
+    "Location": "Italy",
+    "Experiences": [
+        {
+            "position_title": "direttore",
+            "company": "Ossigeno per l'informazione",
+            "duration": "12 yrs",
+            "location": "Roma, Italia",
+            "from_date": "2009",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "membro del consiglio nazionale",
+            "company": "FNSI",
+            "duration": "7 yrs",
+            "location": null,
+            "from_date": "2007",
+            "to_date": "2014",
+            "url": null
+        },
+        {
+            "position_title": "redazione politica",
+            "company": "ANSA",
+            "duration": "20 yrs 1 mo",
+            "location": null,
+            "from_date": "1992",
+            "to_date": "2012",
+            "url": null
+        },
+        {
+            "position_title": "caporedattore",
+            "company": "L'Ora",
+            "duration": "18 yrs 3 mos",
+            "location": null,
+            "from_date": "1973",
+            "to_date": "1991",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "1970",
+            "to_date": "1973",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "1968",
+            "to_date": "1970",
+            "university": "Universit\u00e0 di Catania",
+            "degree": [],
+            "url": "https://www.linkedin.com/school/13903/?legacySchoolId=13903"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-spampinato-11078325?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAVGgNwB9QCjvY2ySQiuZwPChm9TlvKx8z8;;;\n",
+    "Contact_url": []
+}

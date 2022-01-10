@@ -1,0 +1,65 @@
+{
+    "Name": "Aldo Paciulli",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Process leader",
+            "company": "Nt Food S.p.A.",
+            "duration": null,
+            "location": null,
+            "from_date": "2019",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/ntfoodspa/"
+        },
+        {
+            "position_title": "Addetto controllo qualit\u00e0",
+            "company": "Nt Food S.p.A.",
+            "duration": null,
+            "location": null,
+            "from_date": "2016",
+            "to_date": "2019",
+            "url": "https://www.linkedin.com/company/ntfoodspa/"
+        },
+        {
+            "position_title": "Pizzaiolo",
+            "company": "Pizzeria Anche no!",
+            "duration": "3 yrs 8 mos",
+            "location": "Pisa, Italia",
+            "from_date": "2013",
+            "to_date": "2016",
+            "url": null
+        },
+        {
+            "position_title": "Stagista",
+            "company": "GEOfood Srl",
+            "duration": "3 mos",
+            "location": "Lucca, Italia",
+            "from_date": "2015",
+            "to_date": "2016",
+            "url": null
+        },
+        {
+            "position_title": "Tirocinante",
+            "company": "Consiglio Nazionale delle Ricerche",
+            "duration": "2 mos",
+            "location": "Pisa, Italia",
+            "from_date": "2015",
+            "to_date": "2015",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2008",
+            "to_date": "2015",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea triennale in Biotecnologie Agro - Industriali - curriculum alimentare",
+                "Facolt\u00e0 di Agraria"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/aldo-paciulli-07246787?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABJmNZYBmYaac5Xt2JL03EWcHxzWJqHQWwY;;;\n",
+    "Contact_url": []
+}

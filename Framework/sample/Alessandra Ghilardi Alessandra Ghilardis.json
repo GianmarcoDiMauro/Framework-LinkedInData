@@ -1,0 +1,40 @@
+{
+    "Name": "Alessandra Ghilardi",
+    "Location": "Lucca, Tuscany, Italy",
+    "Experiences": [],
+    "Education": [
+        {
+            "from_date": "2019",
+            "to_date": "2021",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea magistrale in Ingegneria Energetica",
+                "110/110"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2015",
+            "to_date": "2019",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea triennale in Ingegneria dell'Energia",
+                "Ingegneria Energetica",
+                "104/110"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2010",
+            "to_date": "2015",
+            "university": "Liceo Scientifico A. Vallisneri",
+            "degree": [
+                "Diploma scuola secondaria di secondo livello",
+                "95/100"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Liceo%20Scientifico%20A.%20Vallisneri"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alessandra-ghilardi-57099a186?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACvtq6QBv_yNNmG36LHCDtktY4Adu0eo-qo;;;\n",
+    "Contact_url": []
+}

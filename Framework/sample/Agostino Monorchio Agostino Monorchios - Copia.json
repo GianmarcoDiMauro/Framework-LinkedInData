@@ -1,0 +1,44 @@
+{
+    "Name": "Agostino Monorchio",
+    "Location": "Pisa, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Professor",
+            "company": "University of Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "1996",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/university-of-pisa/"
+        },
+        {
+            "position_title": "Professor",
+            "company": "University of Pisa",
+            "duration": null,
+            "location": null,
+            "from_date": "1996",
+            "to_date": "2009",
+            "url": "https://www.linkedin.com/company/university-of-pisa/"
+        },
+        {
+            "position_title": "Prof.",
+            "company": "Universit\u00e0 di Pisa",
+            "duration": "25 yrs",
+            "location": null,
+            "from_date": "1996",
+            "to_date": "",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "1985",
+            "to_date": "1991",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/agostino-monorchio-6069705?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEINmYB3HWXjyScQPrrNR7UOCxSlguYX7I;;;\n",
+    "Contact_url": []
+}

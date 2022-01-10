@@ -1,0 +1,68 @@
+{
+    "Name": "alberto deanesi",
+    "Location": "Verona, Veneto, Italy",
+    "Experiences": [
+        {
+            "position_title": "Brevettuale automotiv ciclismo vari",
+            "company": "Freelance",
+            "duration": "42 yrs 7 mos",
+            "location": "Verona",
+            "from_date": "1979",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "autoriparatore",
+            "company": "MID Management International Diffusion",
+            "duration": "4 yrs 2 mos",
+            "location": null,
+            "from_date": "2016",
+            "to_date": "2020",
+            "url": null
+        },
+        {
+            "position_title": "Inventory Specialist",
+            "company": "Deaneasy srl Self-employed",
+            "duration": "5 yrs 3 mos",
+            "location": "Verona, Veneto, Italia",
+            "from_date": "2011",
+            "to_date": "2016",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "1982",
+            "to_date": "1983",
+            "university": "Folgore pisa",
+            "degree": [
+                "top s.",
+                "Istruttore di volo",
+                "Par. C.l m.",
+                "Smipar"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Folgore%20pisa"
+        },
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Deaneasy",
+            "degree": [
+                "Deaneasy"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Deaneasy"
+        },
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Folgore",
+            "degree": [
+                "Top secret",
+                "Genio creativo"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Folgore%20"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-deanesi-a12b1286?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABJRiC4B-z9EkgN0XbFnYemopSNmua6LSok\n",
+    "Contact_url": []
+}

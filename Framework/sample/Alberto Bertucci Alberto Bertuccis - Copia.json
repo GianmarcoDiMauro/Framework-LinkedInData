@@ -1,0 +1,75 @@
+{
+    "Name": "Alberto Bertucci",
+    "Location": "Prato, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Co-Founder, Sales Manager & Trainer presso Hubic Marketing | Brands To People",
+            "company": "Hubic Marketing | Digital Agency",
+            "duration": "6 yrs 3 mos",
+            "location": "Prato, Italia",
+            "from_date": "2015",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Co-Founder, Sales Manager & Trainer presso Wine Hub",
+            "company": "Wine Hub",
+            "duration": "11 mos",
+            "location": "Prato, Toscana, Italia",
+            "from_date": "2020",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Senior Marketing Specialist",
+            "company": "Cuantes",
+            "duration": "2 yrs 6 mos",
+            "location": null,
+            "from_date": "2013",
+            "to_date": "2015",
+            "url": null
+        },
+        {
+            "position_title": "Senior Marketing Specialist",
+            "company": "Scamper",
+            "duration": "9 yrs 1 mo",
+            "location": null,
+            "from_date": "2003",
+            "to_date": "2012",
+            "url": null
+        },
+        {
+            "position_title": "Consulente e Formatore",
+            "company": "Tagetik",
+            "duration": "10 mos",
+            "location": null,
+            "from_date": "2003",
+            "to_date": "2003",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laurea triennale in finanza, marketing e produzione",
+                "Facolt\u00e0 di Economia di Pisa"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": null,
+            "to_date": null,
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Laura Magistrale Management & Controllo",
+                "Facolt\u00e0 di Economia di Pisa"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/albertobertucci?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAxEf3kB7FE_RkffnUNWnnWwZpaq-NIAjMA\n",
+    "Contact_url": []
+}

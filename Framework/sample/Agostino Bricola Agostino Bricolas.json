@@ -1,0 +1,77 @@
+{
+    "Name": "Agostino Bricola",
+    "Location": "Catania, Sicily, Italy",
+    "Experiences": [
+        {
+            "position_title": "perito tecnico in infortunistica",
+            "company": "studio tecnico",
+            "duration": "11 yrs 7 mos",
+            "location": "Catania, Italia",
+            "from_date": "2010",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Perito di Infortunistica Stradale",
+            "company": "Studio tecnico Bricola",
+            "duration": "11 yrs 7 mos",
+            "location": "Catania, Italia",
+            "from_date": "2010",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "Perito di Infortunistica Stradale",
+            "company": "presso me stesso",
+            "duration": "11 yrs 7 mos",
+            "location": null,
+            "from_date": "2010",
+            "to_date": "",
+            "url": null
+        },
+        {
+            "position_title": "collaboratore",
+            "company": "C&C snc Consoli Claudio",
+            "duration": "3 yrs",
+            "location": null,
+            "from_date": "2002",
+            "to_date": "2005",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2010",
+            "to_date": "2010",
+            "university": "Univerisit\u00e0 degli studi di firenze",
+            "degree": [
+                "Dipartimento di Meccanica e tecnologie industriali",
+                "Corso di ricostruzione di incidenti stradali",
+                "2 crediti formativi"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Univerisit%C3%A0%20degli%20studi%20di%20firenze"
+        },
+        {
+            "from_date": "2001",
+            "to_date": "2001",
+            "university": "Master tecniche nuove",
+            "degree": [
+                "Corso di infortunistica stradale",
+                "Master tecniche nuove Taranto",
+                "26/30"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Master%20tecniche%20nuove"
+        },
+        {
+            "from_date": "1994",
+            "to_date": "1998",
+            "university": "Istituto tecnico Aldo Moro",
+            "degree": [
+                "Ragioniere"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Istituto%20tecnico%20Aldo%20Moro"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/agostino-bricola-96656629?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAX0n94BAzIRATatqIymgKUfGJClKDvcyks\n",
+    "Contact_url": []
+}

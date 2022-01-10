@@ -1,0 +1,100 @@
+{
+    "Name": "Alberto Nuti",
+    "Location": "Florence, Tuscany, Italy",
+    "Experiences": [
+        {
+            "position_title": "Leather Purchasing Manager - Leather Goods Division",
+            "company": "Prada Group",
+            "duration": null,
+            "location": null,
+            "from_date": "2021",
+            "to_date": "",
+            "url": "https://www.linkedin.com/company/pradagroup/"
+        },
+        {
+            "position_title": "Senior Purchasing Planner",
+            "company": "Prada Group",
+            "duration": null,
+            "location": null,
+            "from_date": "2016",
+            "to_date": "2020",
+            "url": "https://www.linkedin.com/company/pradagroup/"
+        },
+        {
+            "position_title": "Buyer \u2013 Raw Materials, Leather Goods Division",
+            "company": "Prada Group",
+            "duration": null,
+            "location": null,
+            "from_date": "2014",
+            "to_date": "2016",
+            "url": "https://www.linkedin.com/company/pradagroup/"
+        },
+        {
+            "position_title": "Business Controller and Strategic Financial Planner",
+            "company": "Corepla",
+            "duration": "1 yr 3 mos",
+            "location": "Milano, Italia",
+            "from_date": "2013",
+            "to_date": "2014",
+            "url": null
+        },
+        {
+            "position_title": "Trade Marketing & Commercial Officer",
+            "company": "L.V.M.H. (Mo\u00ebt Hennessy Louis Vuitton) Italia",
+            "duration": "6 mos",
+            "location": "Milano, Italia",
+            "from_date": "2012",
+            "to_date": "2013",
+            "url": null
+        },
+        {
+            "position_title": "Strategic and Business Development - Intern",
+            "company": "Corepla",
+            "duration": "4 mos",
+            "location": "Milano, Italia",
+            "from_date": "2011",
+            "to_date": "2011",
+            "url": null
+        },
+        {
+            "position_title": "Assistant to Commercial Operations",
+            "company": "Leather, Hide & Skin International Agency",
+            "duration": "1 yr",
+            "location": "Santa Croce Sull'Arno (PI)",
+            "from_date": "2008",
+            "to_date": "2009",
+            "url": null
+        }
+    ],
+    "Education": [
+        {
+            "from_date": "2009",
+            "to_date": "2012",
+            "university": "Universit\u00e0 Commerciale 'Luigi Bocconi'",
+            "degree": [
+                "Master's Degree - Management"
+            ],
+            "url": "https://www.linkedin.com/school/13854/?legacySchoolId=13854"
+        },
+        {
+            "from_date": "2006",
+            "to_date": "2009",
+            "university": "Universit\u00e0 di Pisa",
+            "degree": [
+                "Bachelor's Degree - Economics and Business Administration"
+            ],
+            "url": "https://www.linkedin.com/school/13904/?legacySchoolId=13904"
+        },
+        {
+            "from_date": "2001",
+            "to_date": "2006",
+            "university": "Istituto Tecnico Commerciale 'Carlo Cattaneo'",
+            "degree": [
+                "Accountant, Commercial Expert"
+            ],
+            "url": "https://www.linkedin.com/search/results/all/?keywords=Istituto%20Tecnico%20Commerciale%20%27Carlo%20Cattaneo%27"
+        }
+    ],
+    "Linkedin_url": "https://www.linkedin.com/in/alberto-nuti-87039740?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAiZcRQBeFJDrqSw7rpZd-I7ONySHZzGUx0;;;\n",
+    "Contact_url": []
+}
